@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module Data
+module RVAData
   YEAR = 22
   MONTH = 2
   DAY = 21

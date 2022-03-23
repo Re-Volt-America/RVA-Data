@@ -52,7 +52,7 @@ end
 task :version => [:profile] do
   contents = [
     '{',
-    "\t\t\"version\": \"#{Data::VERSION}\"",
+    "\t\t\"version\": \"#{RVAData::VERSION}\"",
     '}'
   ]
 
