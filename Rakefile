@@ -52,11 +52,11 @@ end
 task :version => [:profile] do
   contents = [
     '{',
-    "\t\t\"version\": \"#{RVA_CARS::VERSION}\"",
+    "\t\t\"version\": \"#{Data::VERSION}\"",
     '}'
   ]
 
-  File.open('rva_points_data.json', 'w+') do |f|
+  File.open('rva_data.json', 'w+') do |f|
     contents.each { |l| f.puts(l) }
   end
 end
