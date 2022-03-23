@@ -1,0 +1,19 @@
+# Mac OSX generated files
+.DS_Store
+
+# RubyMine
+.idea
+
+# Vim generated files
+*~
+*.swp
+
+# Capistrano
+log/capistrano.log
+
+# Ignore profiled models
+yaml/
+yml/
+
+# Data JSON
+rva_points_data.json
