@@ -13,4 +13,4 @@ mv yml $DIST/rva_data
 mv yaml $DIST/rva_data
 mv rva_data.json $DIST/rva_data
 
-sudo chmod -R 777 $DIST/rva_data/
+chmod -R 777 $DIST/rva_data/
