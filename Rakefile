@@ -8,7 +8,9 @@ require_relative 'data'
 
 task :default => %i[profile version]
 
-task :profile do
+task :profile => %i[profile_cars profile_tracks]
+
+task :profile_cars do
   Dir.entries('models/cars').each do |f|
     next unless File.extname(f).eql?('.csv')
 
@@ -44,6 +46,34 @@ task :profile do
 
     Dir.mkdir('yaml') unless File.exist?('yaml')
     File.open("yaml/#{car_class}.yaml", 'w+') do |yaml|
+      contents.each { |l| yaml.puts(l) }
+    end
+  end
+end
+
+task :profile_tracks do
+  Dir.entries('models/tracks').each do |f|
+    next unless File.extname(f).eql?('.csv')
+
+    contents = []
+
+    data = CSV.read("models/tracks/#{f}")
+    data.drop(1).each do |l|
+      track_line = [
+        "\"#{l[0]}\": #{l[1]}"
+      ]
+
+      puts "Writing car #{track_line} ..."
+      contents.append(track_line)
+    end
+
+    Dir.mkdir('yml') unless File.exist?('yml')
+    File.open("yml/#{File.basename(f, '.csv')}.yml", 'w+') do |yml|
+      contents.each { |l| yml.puts(l) }
+    end
+
+    Dir.mkdir('yaml') unless File.exist?('yaml')
+    File.open("yaml/#{File.basename(f, '.csv')}.yaml", 'w+') do |yaml|
       contents.each { |l| yaml.puts(l) }
     end
   end
