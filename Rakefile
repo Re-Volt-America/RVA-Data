@@ -9,11 +9,11 @@ require_relative 'data'
 task :default => %i[profile version]
 
 task :profile do
-  Dir.entries('models').each do |f|
+  Dir.entries('models/cars').each do |f|
     next unless File.extname(f).eql?('.csv')
 
     car_class = f.split('.')[0]
-    data = CSV.read("models/#{f}")
+    data = CSV.read("models/cars/#{f}")
 
     contents = [
       "#{car_class}:"
@@ -24,13 +24,13 @@ task :profile do
       slug = l[0].gsub(' ', '_').downcase
 
       car_line = [
-        "\s#{slug}:",
-        "\s\sname: #{l[0]}",
-        "\s\sslug: #{slug}",
-        "\s\sspeed: #{l[1]}",
-        "\s\sacc: #{l[2]}",
-        "\s\sweight: #{l[3]}",
-        "\s\smultiplier: #{l[4]}"
+        "\s\s#{slug}:",
+        "\s\s\s\sname: #{l[0]}",
+        "\s\s\s\sslug: #{slug}",
+        "\s\s\s\sspeed: #{l[1]}",
+        "\s\s\s\sacc: #{l[2]}",
+        "\s\s\s\sweight: #{l[3]}",
+        "\s\s\s\smultiplier: #{l[4]}"
       ]
 
       puts "Writing car #{car_line} ..."
@@ -52,7 +52,7 @@ end
 task :version => [:profile] do
   contents = [
     '{',
-    "\t\t\"version\": \"#{RVAData::VERSION}\"",
+    "\t\"version\": \"#{RVAData::VERSION}\"",
     '}'
   ]
 
