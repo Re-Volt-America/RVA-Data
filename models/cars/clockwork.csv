@@ -1,17 +1,18 @@
 name,speed,acc,weight,multiplier
-Clockwork Ghibli,52.9,2.47,1.25,0.9
+Clockwork Ghibli,52.9,2.47,1.25,1
 Clockwork Peak,51.1,4.57,0.9,0.8
 Clockwork Rally,55.0,2.96,1.25,0.7
 Clockwork Rod,52.9,2.50,1.18,0.7
-Clockwork Super,54.3,3.23,1.1,1.3
+Clockwork Super,54.3,3.23,1.1,1.4
 Clockwork Turbo,55.5,3.29,1.14,0.7
 Clockwork Banger,52.4,1.92,1.33,0.9
 Clockwork Mud,54.0,2.21,1.21,0.9
 Clockwork Sport,52.4,2.34,1.28,0.8
 Clockwork Baja,53.5,1.93,1.3,1
 Clockwork Beast,54.9,1.73,1.5,1
-Clockwork Midget,52.7,2.35,1.16,1
+Clockwork Midget,52.7,2.35,1.16,0.8
 Clockwork Trial,53.6,1.64,1.7,1.2
 Clockwork Stream,53.2,2.21,1.22,1.5
 Clockwork Buggy,52.5,2.26,1.2,1.5
-Clockwork Kart,53.6,2.31,1.3,0.7
+Clockwork Kart,53.6,2.31,1.3,0.8
+Clockwork Modify,52.9,2.75,1.0,0.7
