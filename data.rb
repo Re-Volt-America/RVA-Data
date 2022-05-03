@@ -2,7 +2,7 @@
 
 module RVAData
   YEAR = 22
-  MONTH = 4
-  DAY = 10
+  MONTH = 5
+  DAY = 3
   VERSION = "#{YEAR}.#{MONTH < 10 ? "0#{MONTH}" : MONTH}#{DAY}"
 end
