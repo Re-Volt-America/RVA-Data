@@ -63,7 +63,7 @@ task :profile_tracks do
         "\"#{l[0]}\": #{l[1]}"
       ]
 
-      puts "Writing car #{track_line} ..."
+      puts "Writing track #{track_line} ..."
       contents.append(track_line)
     end
 
