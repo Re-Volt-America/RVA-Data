@@ -3,7 +3,7 @@ RVA-Data
 
 Static configuration data for [RVA](https://revolt-america.com/).
 
-`models/` Contains all data stored in a `.csv` format. Modifying these files will reflect across RVA's infrastructure.
+`models/` Contains all data stored in a `.csv` format. Modifying these files will reflect across all RVA's infrastructure.
 
 ## Usage
 For developers, the packaging pipeline was built using Rake. The following tasks take care of profiling and versioning
