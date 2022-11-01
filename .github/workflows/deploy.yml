@@ -28,10 +28,10 @@ jobs:
           mv yaml rva_data
           mv rva_data.json rva_data
       - name: Deploy via FTP
-          uses: SamKirkland/FTP-Deploy-Action@4.3.0
-          with:
-            server: ${{ secrets.FTP_SERVER }}
-            username: ${{ secrets.FTP_USERNAME }}
-            password: ${{ secrets.FTP_PASSWORD }}
-            local-dir: "./rva_data"
-            server-dir: "rva_data"
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: "./rva_data"
+          server-dir: "rva_data"
