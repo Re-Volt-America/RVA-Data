@@ -18,7 +18,20 @@ jobs:
         run: |
           gem install bundler
           bundle install --jobs 4 --retry 3
-      - uses: miloserdow/capistrano-deploy@master
-        with:
-          target: production
-          deploy_key: ${{ secrets.DEPLOY_PASSWORD }}
+      - name: Run Rake tasks
+        run: |
+          bundle exec rake
+      - name: Prepare FTP directories
+        run: |
+          mkdir rva_data
+          mv yml rva_data
+          mv yaml rva_data
+          mv rva_data.json rva_data
+      - name: Deploy via FTP
+          uses: SamKirkland/FTP-Deploy-Action@4.3.0
+          with:
+            server: ${{ secrets.FTP_SERVER }}
+            username: ${{ secrets.FTP_USERNAME }}
+            password: ${{ secrets.FTP_PASSWORD }}
+            local-dir: "./rva_data"
+            server-dir: "rva_data"
