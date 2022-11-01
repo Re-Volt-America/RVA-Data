@@ -8,9 +8,6 @@
 *~
 *.swp
 
-# Capistrano
-log/capistrano.log
-
 # Ignore profiled models
 yaml/
 yml/
