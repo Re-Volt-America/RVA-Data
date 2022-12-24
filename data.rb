@@ -4,7 +4,7 @@ module RVAData
   YEAR = 22
   MONTH = 12
   DAY = 12
-  REVISION = 3
+  REVISION = 4
   SUFFIX = 'a'
   VERSION = "#{YEAR}.#{MONTH < 10 ? "0#{MONTH}" : MONTH}#{DAY}#{SUFFIX}-#{REVISION}"
 end
