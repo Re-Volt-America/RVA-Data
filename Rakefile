@@ -25,7 +25,7 @@ task :profile_cars do
     data.drop(1).each do |l|
       slug = l[0].gsub(' ', '_').downcase
 
-      car_line = [
+      car_lines = [
         "\s\s#{slug}:",
         "\s\s\s\sname: #{l[0]}",
         "\s\s\s\sslug: #{slug}",
@@ -35,8 +35,11 @@ task :profile_cars do
         "\s\s\s\smultiplier: #{l[4]}"
       ]
 
-      puts "Writing car #{car_line} ..."
-      contents.append(car_line)
+      car_lines.each do |line|
+        puts(line)
+      end
+
+      contents.append(car_lines)
     end
 
     Dir.mkdir('yml') unless File.exist?('yml')
@@ -57,14 +60,19 @@ task :profile_tracks do
 
     contents = []
 
+    puts('Writing tracks ...')
+
     data = CSV.read("models/tracks/#{f}")
     data.drop(1).each do |l|
-      track_line = [
+      track_lines = [
         "\"#{l[0]}\": #{l[1]}"
       ]
 
-      puts "Writing track #{track_line} ..."
-      contents.append(track_line)
+      track_lines.each do |line|
+        puts(line.to_s)
+      end
+
+      contents.append(track_lines)
     end
 
     Dir.mkdir('yml') unless File.exist?('yml')
