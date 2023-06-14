@@ -1,7 +1,7 @@
 RVA-Data
 ===
 
-Static configuration data for [RVA](https://revolt-america.com/).
+Static configuration data for [RVA](https://rva.lat/).
 
 `models/` Contains all data stored in a `.csv` format. Modifying these files will reflect across all RVA's infrastructure.
 
