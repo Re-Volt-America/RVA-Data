@@ -1,37 +1,36 @@
 name,speed,acc,weight,multiplier
-Alterego,69.9,3.56,2,0.7
-Armand,69.1,4.17,1.5,0.7
-Endo,71.1,4.74,2.7,0.7
-Pearl,73.8,2.73,2,0.7
-Reiser,70.5,3.34,2,0.7
-Sapphire,69.8,4.2,1.45,0.7
-Stinger,70.2,3.08,2,0.7
-Super Phantum,73.8,3.39,1.4,0.7
-Track Reaper,74.8,3.1,2,0.7
-Cambold R,70.9,3.70,1.4,0.8
-Commandine,65.0,3.44,2.0,0.8
-Daemmon,74.4,3.87,1.85,0.8
-La Rossa,72.9,4.16,2.0,0.8
-Nova,73.7,4.21,2,0.8
-Prototype FX77,65.1,2.99,1.2,0.8
-Sideswipe,70.4,3.86,2,0.8
-Starmac,68.6,3.54,1.8,0.8
-Tesseract,71.3,4,2,0.8
-XM250,70.2,3.13,1.4,0.8
-Calcure,71.0,2.87,2.0,0.9
-Gungnir,67.7,3.45,3.3,0.9
-Madax GT,71.3,2.76,2.15,0.9
-Nakajima,76,3.2,1.25,0.9
-Voltrex,72.7,3.88,1.3,0.9
-FLIR,71.4,5.66,2.0,1.0
-King Kaiju,72.6,4.41,1.8,1.0
-King Moloko,77,3,2.7,1.0
-Megalodon XL,77.1,3.73,2.2,1.0
-Saeger,69.6,5.81,2,1.0
-Rinne,80.4,3.69,1.9,1.1
-Volken Champion,71.7,3.9,1.5,1.1
-Devyaty,74.2,2.69,2,1.2
-Identity X,78.2,3.38,2.5,1.2
-Napalm,76.0,5.43,2.0,1.4
-Dookur Special,75.2,2.47,3.5,1.5
-Screamer,77.3,3,1.4,1.7
+Armand,69.2,4.17,1.45,0.7
+Endo,71.2,4.75,2.7,0.7
+Phantera ART,72.9,3.59,1.75,0.7
+Phatendo,72.9,3.49,5,0.7
+Powerpython,70.3,3.53,2,0.7
+Revolution 12,71.4,4.48,1.8,0.7
+Spedion,69.5,4.13,2,0.7
+Wyvern,70.7,3.81,1.8,0.7
+Cambold R,71.1,3.69,1.4,0.8
+Commandine,65.1,3.44,2,0.8
+Daemmon,74.6,3.86,1.85,0.8
+La Rossa,73,4.14,2,0.8
+RVRC,70.3,4,2,0.8
+Prototype FX77,65.3,2.98,1.2,0.8
+Starmac,68.7,3.54,1.8,0.8
+Tesseract,71.5,4.02,2,0.8
+XM250,70.4,3.13,1.4,0.8
+Calcure,71.2,2.87,2,0.9
+Disruption,67.9,3.52,3,0.9
+Gungnir,67.9,3.46,3.3,0.9
+Madax GT,71.6,2.75,2.15,0.9
+Nahesa,71.4,3.62,1.6,0.9
+Nakajima,76.2,3.2,1.25,0.9
+Vanguard,73.8,5.11,1.6,0.9
+Voltrex,72.8,3.88,1.3,0.9
+FLIR,71.4,5.66,2,1.0
+King Kaiju,72.7,4.4,1.75,1.0
+King Moloko,77.3,3.04,2.7,1.0
+Megalodon XL,77.3,3.74,2.2,1.0
+Saeger,71.5,5.8,2,1.0
+Forged Steel,71.5,3.19,2.2,1.1
+Rinne,80.6,3.69,1.9,1.1
+Identity X,78.3,3.38,2.5,1.2
+Napalm,76.1,5.43,2,1.4
+Oblitenitro,83.5,2.38,3.5,1.5
