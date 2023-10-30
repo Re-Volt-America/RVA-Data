@@ -46,11 +46,6 @@ task :profile_cars do
     File.open("yml/#{car_class}.yml", 'w+') do |yml|
       contents.each { |l| yml.puts(l) }
     end
-
-    Dir.mkdir('yaml') unless File.exist?('yaml')
-    File.open("yaml/#{car_class}.yaml", 'w+') do |yaml|
-      contents.each { |l| yaml.puts(l) }
-    end
   end
 end
 
@@ -87,11 +82,6 @@ task :profile_tracks do
     Dir.mkdir('yml') unless File.exist?('yml')
     File.open("yml/#{File.basename(f, '.csv')}.yml", 'w+') do |yml|
       contents.each { |l| yml.puts(l) }
-    end
-
-    Dir.mkdir('yaml') unless File.exist?('yaml')
-    File.open("yaml/#{File.basename(f, '.csv')}.yaml", 'w+') do |yaml|
-      contents.each { |l| yaml.puts(l) }
     end
   end
 end
