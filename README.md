@@ -10,6 +10,6 @@ For developers, the packaging pipeline was built using [Rake](https://ruby.githu
 care of profiling and versioning the files included in models.
 
 - `:profile`: Profiles the data into `yml` format. This task will create a directory named `yml/` and output all the
-  profiled files into it
+  profiled files into it.
 - `:version`: Generates an `rva_points_data.json` file, which is later used by [RVA-Points](https://github.com/Re-Volt-America/RVA-Points)
   to detect car & track data updates.
