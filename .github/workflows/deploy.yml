@@ -25,7 +25,6 @@ jobs:
         run: |
           mkdir rva_data
           mv yml rva_data
-          mv yaml rva_data
           mv rva_data.json rva_data
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
