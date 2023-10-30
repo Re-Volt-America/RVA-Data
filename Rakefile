@@ -64,8 +64,17 @@ task :profile_tracks do
 
     data = CSV.read("models/tracks/#{f}")
     data.drop(1).each do |l|
+      slug = l[0].gsub(' ', '_').downcase
+
       track_lines = [
-        "\"#{l[0]}\": #{l[1]}"
+        "\s\s#{slug}:",
+        "\s\s\s\sname: \"#{l[0]}\"",
+        "\s\s\s\sslug: \"#{slug}\"",
+        "\s\s\s\sshort_name: \"#{l[1]}\"",
+        "\s\s\s\sdifficulty: #{l[2]}",
+        "\s\s\s\slength: #{l[3]}",
+        "\s\s\s\sfolder_name: #{l[4]}",
+        "\s\s\s\sstock: #{l[5]}"
       ]
 
       track_lines.each do |line|
