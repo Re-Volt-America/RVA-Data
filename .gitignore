@@ -9,7 +9,6 @@
 *.swp
 
 # Ignore profiled models
-yaml/
 yml/
 
 # Data JSON
