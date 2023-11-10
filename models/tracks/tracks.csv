@@ -1,44 +1,44 @@
 name,short_name,difficulty,length,folder_name,stock
-Airport 1,AP1,2,612,fdt16airport1,false
-Botanical Garden,BG,0,323,garden1,true
-Botanical Garden EX,BGX,2,807,fdt9xgarden,false
-Calaboq,CBQ,-1,512,calaboq,false
-Cardboard Castle,CC,0,426,pmt_box,false
-Casino RV,CAS,1,635,casinorv,false
-Castle 1,CT1,3,795,fdt21castle1,false
-Castle 2,CT2,3,715,fdt22castle2,false
-Desolate District 1,DD1,2,657,district,false
-Downtown 1,DT1,1,800,dtown1,false
-Downtown 2,DT2,3,916,dtown2,false
-Fairground 1,FG1,1,363,fair1,false
-Fairground 2,FG2,3,766,fair2,false
-Game Room 1,GR1,1,417,fdt23arcade1,false
-Game Room 2,GR2,2,635,fdt24arcade2,false
-Ghost Town 1,GT1,1,324,wild_west1,true
-Ghost Town 2,GT2,3,490,wild_west2,true
-Grisville,GV,3,648,ghetto,false
-Helios/Lunar,HL,-1,655,helios-lunar,false
-Home 1,HO1,0,237,home1,false
-Home 2,HO2,2,489,home2,false
-Hospital 1,HP1,2,623,hospital1,false
-Hospital 2,HP2,2,399,hospital2,false
-Jailhouse Rock,JR,-1,729,jailhouse,false
-Junkyard 2,JY2,1,517,fdt20junk2,false
-Market Mayhem,MM,1,448,marketmayhem,false
-Medieval: Redux,MR,0,356,medieval-redux,false
-Metro-Volt,MV,-1,649,metrovolt,false
-Moon Dawn,MD,3,1418,dome3,false
-Museum 1,M1,2,668,muse1,true
-Museum 2,M2,0,600,muse2,true
-Museum 3,M3,0,539,muse3,false
-Mysterious Toy-Volt Factory 1,MY1,1,504,fdt8mtvf,false
-Mysterious Toy-Volt Factory 2,MY2,2,892,fdt12mtvf2,false
-PetroVolt,PV,3,948,petrol,false
-Port Limano 2,PL2,2,616,portlimano2,false
-Port Limano EX,PLX,3,819,portlimanoex,false
-Quake!,Q!,3,843,quake,false
-Rooftop Chase: Redux,RCR,-1,605,roofchaseredux,false
-Rooftops,RT,1,588,roof,true
+Airport 1,AP1,2,612,fdt16airport1,FALSE
+Botanical Garden,BG,0,323,garden1,TRUE
+Botanical Garden EX,BGX,2,807,fdt9xgarden,FALSE
+Calaboq,CBQ,-1,512,calaboq,FALSE
+Cardboard Castle,CC,0,426,pmt_box,FALSE
+Casino RV,CAS,1,635,casinorv,FALSE
+Castle 1,CT1,3,795,fdt21castle1,FALSE
+Castle 2,CT2,3,715,fdt22castle2,FALSE
+Desolate District 1,DD1,2,657,district,FALSE
+Downtown 1,DT1,1,800,dtown1,FALSE
+Downtown 2,DT2,3,916,dtown2,FALSE
+Fairground 1,FG1,1,363,fair1,FALSE
+Fairground 2,FG2,3,766,fair2,FALSE
+Game Room 1,GR1,1,417,fdt23arcade1,FALSE
+Game Room 2,GR2,2,635,fdt24arcade2,FALSE
+Ghost Town 1,GT1,1,324,wild_west1,TRUE
+Ghost Town 2,GT2,3,490,wild_west2,TRUE
+Grisville,GV,3,648,ghetto,FALSE
+Helios/Lunar,HL,-1,655,helios-lunar,FALSE
+Home 1,HO1,0,237,home1,FALSE
+Home 2,HO2,2,489,home2,FALSE
+Hospital 1,HP1,2,623,hospital1,FALSE
+Hospital 2,HP2,2,399,hospital2,FALSE
+Jailhouse Rock,JR,-1,729,jailhouse,FALSE
+Junkyard 2,JY2,1,517,fdt20junk2,FALSE
+Market Mayhem,MM,1,448,marketmayhem,FALSE
+Medieval: Redux,MR,0,356,medieval-redux,FALSE
+Metro-Volt,MV,-1,649,metrovolt,FALSE
+Moon Dawn,MD,3,1418,dome3,FALSE
+Museum 1,M1,2,668,muse1,TRUE
+Museum 2,M2,0,600,muse2,TRUE
+Museum 3,M3,0,539,muse3,FALSE
+Mysterious Toy-Volt Factory 1,MY1,1,504,fdt8mtvf,FALSE
+Mysterious Toy-Volt Factory 2,MY2,2,892,fdt12mtvf2,FALSE
+PetroVolt,PV,3,948,petrol,FALSE
+Port Limano 2,PL2,2,616,portlimano2,FALSE
+Port Limano EX,PLX,3,819,portlimanoex,FALSE
+Quake!,Q!,3,843,quake,FALSE
+Rooftop Chase: Redux,RCR,-1,605,roofchaseredux,FALSE
+Rooftops,RT,1,588,roof,TRUE
 Rooftops 1,RT1,3,717,roof1,False
 Sakura,SKR,-1,752,sakura,False
 Santorini,SAN,0,500,santorini,False
@@ -49,14 +49,14 @@ Spa-Volt 1,SV1,3,595,spavolt1,False
 Spa-Volt 2,SV2,3,532,spavolt2,False
 StadVolt,STV,2,571,stadvolt,False
 Subway 2,SW2,1,937,subway2,False
-SuperMarket 1,SM1,3,502,market1,true
-SuperMarket 2,SM2,0,301,market2,true
-Toy World 1,TW1,1,354,toylite,true
-Toy World 2,TW2,1,444,toy2,true
-Toy World Mayhem,TWM,-1,465,toymayhem,false
-Toys in the Hood 1,TH1,0,747,nhood1,true
-Toys in the Hood 2,TH2,2,592,nhood2,true
-Toytanic 1,T1,2,742,ship1,true
-Toytanic 2,T2,3,742,ship2,true
-User-Deli: XL,DEL,3,390,user-delixl,false
-Venice,VN,3,617,venice,false
+SuperMarket 1,SM1,3,502,market1,TRUE
+SuperMarket 2,SM2,0,301,market2,TRUE
+Toy World 1,TW1,1,354,toylite,TRUE
+Toy World 2,TW2,1,444,toy2,TRUE
+Toy World Mayhem,TWM,-1,465,toymayhem,FALSE
+Toys in the Hood 1,TH1,0,747,nhood1,TRUE
+Toys in the Hood 2,TH2,2,592,nhood2,TRUE
+Toytanic 1,T1,2,742,ship1,TRUE
+Toytanic 2,T2,3,742,ship2,TRUE
+User-Deli: XL,DEL,3,390,user-delixl,FALSE
+Venice,VN,3,617,venice,FALSE
