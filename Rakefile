@@ -71,7 +71,7 @@ task :profile_tracks do
         "\s\s\s\sdifficulty: #{l[2]}",
         "\s\s\s\slength: #{l[3]}",
         "\s\s\s\sfolder_name: #{l[4]}",
-        "\s\s\s\sstock: #{l[5]}"
+        "\s\s\s\sstock: #{l[5].downcase}"
       ]
 
       track_lines.each do |line|
