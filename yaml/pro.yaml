@@ -1,0 +1,246 @@
+pro:
+  toyeca:
+    name: Toyeca
+    slug: toyeca
+    speed: 64.8
+    acc: 3.2
+    weight: 2
+    multiplier: 0.7
+  purp_xl:
+    name: Purp XL
+    slug: purp_xl
+    speed: 67.4
+    acc: 3.20
+    weight: 2
+    multiplier: 0.7
+  snw_35:
+    name: SNW 35
+    slug: snw_35
+    speed: 65.8
+    acc: 4.32
+    weight: 1.5
+    multiplier: 0.7
+  abomin8r:
+    name: Abomin8r
+    slug: abomin8r
+    speed: 65.7
+    acc: 3.13
+    weight: 2.5
+    multiplier: 0.7
+  dasher_tc:
+    name: Dasher TC
+    slug: dasher_tc
+    speed: 65
+    acc: 4.01
+    weight: 1.5
+    multiplier: 0.7
+  drome_champ:
+    name: Drome Champ
+    slug: drome_champ
+    speed: 63.2
+    acc: 3.31
+    weight: 1.5
+    multiplier: 0.7
+  outlaw:
+    name: Outlaw
+    slug: outlaw
+    speed: 66.2
+    acc: 2.62
+    weight: 2
+    multiplier: 0.7
+  ridgeback:
+    name: Ridgeback
+    slug: ridgeback
+    speed: 65.6
+    acc: 3.3
+    weight: 1.9
+    multiplier: 0.7
+  ryu:
+    name: Ryu
+    slug: ryu
+    speed: 64.1
+    acc: 3.33
+    weight: 1.5
+    multiplier: 0.7
+  sin:
+    name: Sin
+    slug: sin
+    speed: 63.2
+    acc: 4.75
+    weight: 1.8
+    multiplier: 0.7
+  burning_steel:
+    name: Burning Steel
+    slug: burning_steel
+    speed: 68.1
+    acc: 3.5
+    weight: 1.45
+    multiplier: 0.8
+  chimera_tc:
+    name: Chimera TC
+    slug: chimera_tc
+    speed: 61.4
+    acc: 3.73
+    weight: 1.6
+    multiplier: 0.8
+  puma:
+    name: Puma
+    slug: puma
+    speed: 64.5
+    acc: 4.14
+    weight: 1.8
+    multiplier: 0.8
+  wattage:
+    name: Wattage
+    slug: wattage
+    speed: 65.5
+    acc: 3.21
+    weight: 1.8
+    multiplier: 0.8
+  humma:
+    name: Humma
+    slug: humma
+    speed: 64
+    acc: 3.45
+    weight: 2
+    multiplier: 0.9
+  steezy:
+    name: Steezy
+    slug: steezy
+    speed: 66
+    acc: 3.07
+    weight: 1.7
+    multiplier: 0.9
+  tegelhus:
+    name: Tegelhus
+    slug: tegelhus
+    speed: 71.2
+    acc: 2.31
+    weight: 2.7
+    multiplier: 0.9
+  truckenstein:
+    name: Truckenstein
+    slug: truckenstein
+    speed: 67.4
+    acc: 2.71
+    weight: 2.8
+    multiplier: 0.9
+  y_force:
+    name: Y Force
+    slug: y_force
+    speed: 67.2
+    acc: 2.73
+    weight: 2
+    multiplier: 0.9
+  acclaim_f1:
+    name: Acclaim F1
+    slug: acclaim_f1
+    speed: 66.8
+    acc: 3.66
+    weight: 1.0
+    multiplier: 1.0
+  karen:
+    name: Karen
+    slug: karen
+    speed: 65.2
+    acc: 2.86
+    weight: 1.8
+    multiplier: 1.0
+  polar_star:
+    name: Polar Star
+    slug: polar_star
+    speed: 64.5
+    acc: 2.11
+    weight: 1.5
+    multiplier: 1.0
+  sucker_punch:
+    name: Sucker Punch
+    slug: sucker_punch
+    speed: 66.6
+    acc: 3.18
+    weight: 1.25
+    multiplier: 1.0
+  visconti_r:
+    name: Visconti R
+    slug: visconti_r
+    speed: 63.2
+    acc: 3.43
+    weight: 1.8
+    multiplier: 1.0
+  wildstar:
+    name: Wildstar
+    slug: wildstar
+    speed: 66.3
+    acc: 3.6
+    weight: 1
+    multiplier: 1.0
+  patriot:
+    name: Patriot
+    slug: patriot
+    speed: 73.7
+    acc: 5.04
+    weight: 1.9
+    multiplier: 1.1
+  toro_gt84:
+    name: Toro GT84
+    slug: toro_gt84
+    speed: 70.4
+    acc: 2.92
+    weight: 1.5
+    multiplier: 1.1
+  sir_gleam:
+    name: Sir Gleam
+    slug: sir_gleam
+    speed: 67.4
+    acc: 4.45
+    weight: 1
+    multiplier: 1.2
+  rc_bulldog:
+    name: RC Bulldog
+    slug: rc_bulldog
+    speed: 70.5
+    acc: 2.81
+    weight: 5
+    multiplier: 1.4
+  star_oil:
+    name: Star Oil
+    slug: star_oil
+    speed: 64.5
+    acc: 2.81
+    weight: 2.5
+    multiplier: 1.4
+  superdriver:
+    name: Superdriver
+    slug: superdriver
+    speed: 62.9
+    acc: 5.45
+    weight: 1.4
+    multiplier: 1.4
+  cougar:
+    name: Cougar
+    slug: cougar
+    speed: 69.7
+    acc: 2.36
+    weight: 2
+    multiplier: 1.6
+  panga:
+    name: Panga
+    slug: panga
+    speed: 69.6
+    acc: 2.73
+    weight: 2.5
+    multiplier: 1.8
+  amw:
+    name: AMW
+    slug: amw
+    speed: 68.2
+    acc: 2.31
+    weight: 1
+    multiplier: 2.5
+  fulon_x:
+    name: Fulon X
+    slug: fulon_x
+    speed: 62.5
+    acc: 2.05
+    weight: 1.2
+    multiplier: 3.2
