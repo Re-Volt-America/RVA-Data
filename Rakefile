@@ -32,7 +32,9 @@ task :profile_cars do
         "\s\s\s\sspeed: #{l[1]}",
         "\s\s\s\sacc: #{l[2]}",
         "\s\s\s\sweight: #{l[3]}",
-        "\s\s\s\smultiplier: #{l[4]}"
+        "\s\s\s\smultiplier: #{l[4]}",
+        "\s\s\s\sfolder_name: #{l[5]}",
+        "\s\s\s\sstock: #{l[6].downcase}"
       ]
 
       car_lines.each do |line|
