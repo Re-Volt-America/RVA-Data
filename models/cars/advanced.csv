@@ -21,11 +21,11 @@ Glass Cannon,52.5,13.7,0.7,0.9,tcp_glass,FALSE
 Hyper XL,57.6,2.7,1.75,0.9,fd54hyper,FALSE
 Llag Sat,58.6,2.14,3.2,0.9,nrf_lag,FALSE
 YNZ,58.7,2.16,1.7,0.9,nrf_ynz,FALSE
-Panga TC,59.9,2.13,1.8,1,tc2,TRUE
-Shocker,57.2,2.13,1.8,1,tc8,TRUE
-Diamond,55.9,2.23,1.2,1,diamond,FALSE
-Metal Masher,53.4,2.59,2.7,1,jgp_metalmasher,FALSE
-Emperor,57.6,2.34,2,1.1,emperor,FALSE
+Panga TC,59.9,2.13,1.8,1.0,tc2,TRUE
+Shocker,57.2,2.13,1.8,1.0,tc8,TRUE
+Diamond,55.9,2.23,1.2,1.0,diamond,FALSE
+Emperor,57.6,2.34,2,1.0,emperor,FALSE
+Metal Masher,53.4,2.59,2.7,1.0,jgp_metalmasher,FALSE
 Flower Power,57.8,2.76,1.6,1.1,flowerpower2,FALSE
 Panther,62.9,2.18,1.65,1.1,panthergto,FALSE
 BossVolt,57.4,2.16,3.5,1.2,bossvolt,TRUE
