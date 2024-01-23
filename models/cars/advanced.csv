@@ -1,6 +1,7 @@
 name,speed,acc,weight,multiplier,folder_name,stock
 R6 Turbo,59.4,2.47,0.8,0.7,r5,TRUE
 Alice,54.7,2.31,1.4,0.7,alice,FALSE
+Glass Cannon,52.5,13.7,0.7,0.7,tcp_glass,FALSE
 Kyoki,56.8,2.73,1.4,0.7,kyoki,FALSE
 Neifion,56.5,2.39,1.7,0.7,fd154neifion,FALSE
 Top Tier,55,2.28,1.4,0.7,fd89top,FALSE
@@ -10,13 +11,12 @@ Camelia,58.8,2.78,1.71,0.8,camelia,FALSE
 Drawall,54.2,2.67,1.4,0.8,lib7a_spray,FALSE
 Le Pastel,56.8,2.14,2,0.8,fd110pastel,FALSE
 Nano Rascal,50,2.25,0.99,0.8,nanorascal,FALSE
-Pegmound,55,2.57,2.5,0.8,phim_pegmound,FALSE
 Rice Ball,59.4,2.05,1.6,0.8,rice,FALSE
 Springtrap,55,2.8,1.2,0.8,rv2_buggy,FALSE
 XTAR,61.3,2.41,2,0.8,nrf_xtar,FALSE
 Donnie TC,58,2.73,1.7,0.9,donnietc,FALSE
+Dust Shot,54.8,2.19,1.5,0.9,dustshot,FALSE
 DRJ-61,54.7,2.44,2,0.9,phim_drj-61,FALSE
-Glass Cannon,52.5,13.7,0.7,0.9,tcp_glass,FALSE
 Hyper XL,57.6,2.7,1.75,0.9,fd54hyper,FALSE
 Llag Sat,58.6,2.14,3.2,0.9,nrf_lag,FALSE
 WILL,57,2.47,1.65,0.9,phim_will,FALSE

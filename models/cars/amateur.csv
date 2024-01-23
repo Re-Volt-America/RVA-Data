@@ -1,11 +1,11 @@
 name,speed,acc,weight,multiplier,folder_name,stock
 RC San,53.3,3.17,1,0.7,dino,TRUE
 Aquasonic,55.1,2.42,1.4,0.7,tc4,TRUE
-Dust Shot,54.1,2.2,1.5,0.7,dustshot,FALSE
 Honeybee,54.4,2.31,1.5,0.7,honey,FALSE
+Outraga,53.8,2.42,1.35,0.7,fd46rage,FALSE
 Rad Signal,52.4,2.64,1.2,0.7,tcp_doh,FALSE
 RC Halo,52.9,2.19,1.9,0.7,tcp_homage,FALSE
-Starway,52,2.8,1.5,0.7,lib7b_starway,FALSE
+Smokie,58.2,2.41,1.6,0.7,smokie,FALSE
 Vixen,51.8,2.47,1.5,0.7,tx9vix,FALSE
 LA 54,52,2.52,1.2,0.8,tc12,TRUE
 Matra XL,55.8,2.12,1.4,0.8,tc10,TRUE
