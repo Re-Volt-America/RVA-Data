@@ -13,6 +13,7 @@ Mambra,58.6,4.37,1.6,0.8,mambra,FALSE
 RC-Erra,59.9,2.53,1.6,0.8,cera,FALSE
 Touga,65.7,3.08,2,0.8,touga,FALSE
 Victoria,57.4,2.65,1.7,0.8,phim_victoria,FALSE
+5TP,62.2,3.04,2.5,0.9,jgp_5tp,FALSE
 Chilla,62,2.22,1.4,0.9,tcp_chilla,FALSE
 Ducktail,60.3,2.46,2,0.9,phim_ducktail,FALSE
 M4 Dirtmaster,59.2,2.45,1.9,0.9,fd23m4,FALSE
@@ -21,12 +22,11 @@ Runner 2000,59.8,3.18,1.32,0.9,nrf_runner,FALSE
 Sasquatch,61.4,2.47,3,0.9,sasquatch,FALSE
 Speed Balancer,62.1,3.22,1.8,0.9,speedbalancer,FALSE
 RG1,57.9,2.82,1.4,1.0,tc7,TRUE
-Otaku-D,61.3,3.68,1.7,1.0,phim_sileighty,FALSE
 Trundle Buster,61.5,2.92,4,1.0,nm_trundle,FALSE
-5TP,62.2,3.04,2.5,1.1,jgp_5tp,FALSE
-Sidepod,63.9,2.25,1.2,1.1,sidepod,FALSE
 Ballista,62.5,4.18,2.0,1.2,ballista,FALSE
+Otaku-D,61.3,3.68,1.7,1.2,phim_sileighty,FALSE
 Pemto,65.7,2.58,1.5,1.2,pemto,FALSE
+Sidepod,63.9,2.25,1.2,1.3,sidepod,FALSE
 Big Load,61.5,1.94,3.7,1.5,jgp_bigload,FALSE
 Pest Control,66.6,1.66,2,2.3,tc3,TRUE
 Pole Poz,60.5,2.53,1.7,2.3,fone,TRUE
