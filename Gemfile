@@ -2,6 +2,6 @@
 
 source 'https://rubygems.org'
 
-ruby '2.7.3'
+ruby '3.2.2'
 
-gem 'rake', '~> 13.0', '>= 13.0.6'
+gem 'rake', '~> 13.1'

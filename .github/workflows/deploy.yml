@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Set up Ruby 2.7.3
+      - name: Set up Ruby 3.2.2
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.3
+          ruby-version: 3.2.2
       - name: Bundle gems
         run: |
-          gem install bundler -v 2.4.22
+          gem install bundler
           bundle install --jobs 4 --retry 3
       - name: Run Rake tasks
         run: |
