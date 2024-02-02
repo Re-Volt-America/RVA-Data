@@ -14,9 +14,9 @@ Nano Rascal,50,2.25,0.99,0.8,nanorascal,FALSE
 Rice Ball,59.4,2.05,1.6,0.8,rice,FALSE
 Springtrap,55,2.8,1.2,0.8,rv2_buggy,FALSE
 XTAR,61.3,2.41,2,0.8,nrf_xtar,FALSE
-Donnie TC,58,2.73,1.7,0.9,donnietc,FALSE
 Dust Shot,54.8,2.19,1.5,0.9,dustshot,FALSE
 DRJ-61,54.7,2.44,2,0.9,phim_drj-61,FALSE
+Emperor,57.6,2.34,2,0.9,emperor,FALSE
 Hyper XL,57.6,2.7,1.75,0.9,fd54hyper,FALSE
 Llag Sat,58.6,2.14,3.2,0.9,nrf_lag,FALSE
 WILL,57,2.47,1.65,0.9,phim_will,FALSE
@@ -24,8 +24,8 @@ YNZ,58.7,2.16,1.7,0.9,nrf_ynz,FALSE
 Panga TC,59.9,2.13,1.8,1.0,tc2,TRUE
 Shocker,57.2,2.13,1.8,1.0,tc8,TRUE
 Diamond,55.9,2.23,1.2,1.0,diamond,FALSE
-Emperor,57.6,2.34,2,1.0,emperor,FALSE
 Metal Masher,53.4,2.59,2.7,1.0,jgp_metalmasher,FALSE
+Donnie TC,58,2.73,1.7,1.1,donnietc,FALSE
 Flower Power,57.8,2.76,1.6,1.1,flowerpower2,FALSE
 Panther,62.9,2.18,1.65,1.1,panthergto,FALSE
 BossVolt,57.4,2.16,3.5,1.2,bossvolt,TRUE
