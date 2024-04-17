@@ -1,4 +1,4 @@
-name,short_name,difficulty,length,folder_name,main_author,stock,average_lap_time
+name,short_name,difficulty,length,folder_name,author,stock,average_lap_time
 Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,35
 Aqueduct,AQU,2,426,aqueduct,hilarious6,FALSE,31
 Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,22
