@@ -1,36 +1,33 @@
-name,speed,acc,weight,multiplier,folder_name,stock
-RC San,53.3,3.17,1,0.7,dino,TRUE
-Aquasonic,55.1,2.42,1.4,0.7,tc4,TRUE
-Honeybee,54.4,2.31,1.5,0.7,honey,FALSE
-Outraga,53.8,2.42,1.35,0.7,fd46rage,FALSE
-Rad Signal,52.4,2.64,1.2,0.7,tcp_doh,FALSE
-RC Halo,52.9,2.19,1.9,0.7,tcp_homage,FALSE
-Smokie,58.2,2.41,1.6,0.7,smokie,FALSE
-Vixen,51.8,2.47,1.5,0.7,tx9vix,FALSE
-LA 54,52,2.52,1.2,0.8,tc12,TRUE
-Matra XL,55.8,2.12,1.4,0.8,tc10,TRUE
-AMCO TC,51.2,2.3,3.7,0.8,amcotc,FALSE
-Ashley,53.5,3.1,1.4,0.8,fd118ash,FALSE
-Bumblebee,50.4,2.28,1.1,0.8,bumblebee,FALSE
-Ignit-9,51.9,2.3,1.5,0.8,lib9a_ignit,FALSE
-LMW,56.1,1.74,2,0.8,nrf_lmw,FALSE
-Locker,52.1,2.98,1.4,0.8,tclock,FALSE
-Sugar N' Spice,53.5,1.92,2.2,0.8,tcp_sugar,FALSE
-Candy Pebbles,55.3,1.83,1.3,0.9,candy,TRUE
-Baja Dash,49.9,2.52,2,0.9,lib8a_dash,FALSE
-Mongoose,53.1,2,1.4,0.9,mongoose,FALSE
-Muller GT,52.4,2.41,1.4,0.9,muller_gt,FALSE
-Stonemason,55,2,2.3,0.9,rip,FALSE
-Strax,50.4,2.58,1.4,0.9,strax,FALSE
-The Rook,55.3,1.93,1.3,0.9,tcp_rook,FALSE
-X-6 Nitro,51.8,2.3,1.6,0.9,jgp_x6,FALSE
-Mouse,54.7,2.9,2.3,1.0,mouse,TRUE
-Kyarus,52.2,3.15,1.3,1.0,kyarus,FALSE
-Phantum,55.2,1.88,1.6,1.0,phantum,FALSE
-Reddlum,53.4,2.9,1.8,1.0,reddlum,FALSE
-Road King,50.1,3.13,2.8,1.0,roadking,FALSE
-Slim,52.3,2.27,1.3,1.0,lib16c_slim,FALSE
-Queen Bee,52.3,2.33,1.9,1.2,tcp_drifter,FALSE
-Six Shooter,52.1,2.92,1.94,1.2,sixshooter,FALSE
-RC Phink,49.8,2.28,1.6,1.4,jg6rc,TRUE
-Genghis Kar,56.5,1.66,2,1.6,gencar,TRUE
+name,speed,acc,weight,multiplier,folder_name,author,stock
+RC San,53.3,3.17,1,0.7,dino,Acclaim Studios London,TRUE
+Aquasonic,55.1,2.42,1.4,0.7,tc4,Acclaim Studios London,TRUE
+Moffat Snake,50.4,2.31,1.3,0.7,moffat,Trixed,FALSE
+Outraga,53.8,2.42,1.35,0.7,fd46rage,Xarc,FALSE
+Rad Signal,52.4,2.64,1.2,0.7,tcp_doh,Norfair,FALSE
+RC Halo,52.9,2.19,1.9,0.7,tcp_homage,Trixed,FALSE
+Smokie,58.2,2.41,1.6,0.7,smokie,kiwi,FALSE
+LA 54,52,2.52,1.2,0.8,tc12,Acclaim Studios London,TRUE
+Matra XL,55.8,2.12,1.4,0.8,tc10,Acclaim Studios London,TRUE
+AMCO TC,51.2,2.3,3.7,0.8,amcotc,Zeino,FALSE
+Bumblebee,50.4,2.28,1.1,0.8,bumblebee,kiwi,FALSE
+Ignit-9,51.9,2.3,1.5,0.8,lib9a_ignit,Paperman,FALSE
+LMW,56.1,1.74,2,0.8,nrf_lmw,Norfair,FALSE
+Lineage,52.3,1.95,2.5,0.8,lineage,BrotatoTheBadassSpud,FALSE
+Locker,52.1,2.98,1.4,0.8,tclock,BloodBTF,FALSE
+Candy Pebbles,55.3,1.83,1.3,0.9,candy,Acclaim Studios London,TRUE
+Baja Dash,49.9,2.52,2,0.9,lib8a_dash,Norfair,FALSE
+Fun Zone,53.7,2.28,1.3,0.9,tcp_party,MightyCucumber,FALSE
+Mongoose,53.1,2,1.4,0.9,mongoose,Norfair,FALSE
+Strax,50.4,2.58,1.4,0.9,strax,kiwi,FALSE
+The Rook,55.3,1.93,1.3,0.9,tcp_rook,Trixed,FALSE
+Tin Lizzie,55,2.71,0.7,0.9,tinlizzie,Zeino,FALSE
+X-6 Nitro,51.8,2.3,1.6,0.9,jgp_x6,Ghosterino,FALSE
+Mouse,54.7,2.9,2.3,1.0,mouse,Acclaim Studios London,TRUE
+Kyarus,52.2,3.15,1.3,1.0,kyarus,MightyCucumber,FALSE
+Reddlum,53.4,2.9,1.8,1.0,reddlum,MightyCucumber,FALSE
+Road King,50.1,3.13,2.8,1.0,roadking,Xarc,FALSE
+Slim,52.3,2.27,1.3,1.0,lib16c_slim,Xarc,FALSE
+Queen Bee,52.3,2.33,1.9,1.2,tcp_drifter,Trixed,FALSE
+Downforce,56.1,4.18,0.75,1.3,downforce,Zeino,FALSE
+RC Phink,49.8,2.28,1.6,1.4,jg6rc,Acclaim Studios London,TRUE
+Genghis Kar,56.5,1.66,2,1.6,gencar,Acclaim Studios London,TRUE
