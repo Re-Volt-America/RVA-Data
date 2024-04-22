@@ -1,36 +1,33 @@
-name,speed,acc,weight,multiplier,folder_name,stock
-Adeon,59.1,2.97,1.2,0.7,adeon,TRUE
-Dragoon,61.2,2.26,2.2,0.7,nrf_dragoon,FALSE
-Sir Racealot,58.2,3.77,1.8,0.7,tcp_camelot,FALSE
-Sokudo,56.3,5.19,1.2,0.7,sokudo,FALSE
-Teacee,59.0,2.98,2.0,0.7,teacee,FALSE
-Toy-World GT,62.4,3.87,1.65,0.7,tcp_twgt,FALSE
-Zipper,60.7,2.82,1.4,0.8,tc1,TRUE
-JG-7,59,2.72,1.2,0.8,jg1jg7,TRUE
-Ancile,58.2,2.29,2.5,0.8,lib6ax_ancile,FALSE
-Gridlock,58.1,2.42,1.4,0.8,tcp_gridlock,FALSE
-Mambra,58.6,4.37,1.6,0.8,mambra,FALSE
-RC-Erra,59.9,2.53,1.6,0.8,cera,FALSE
-Touga,65.7,3.08,2,0.8,touga,FALSE
-Victoria,57.4,2.65,1.7,0.8,phim_victoria,FALSE
-5TP,62.2,3.04,2.5,0.9,jgp_5tp,FALSE
-Chilla,62,2.22,1.4,0.9,tcp_chilla,FALSE
-Ducktail,60.3,2.46,2,0.9,phim_ducktail,FALSE
-M4 Dirtmaster,59.2,2.45,1.9,0.9,fd23m4,FALSE
-Maxam RS,61.1,2.23,1.7,0.9,maxamrs,FALSE
-Runner 2000,59.8,3.18,1.32,0.9,nrf_runner,FALSE
-Sasquatch,61.4,2.47,3,0.9,sasquatch,FALSE
-Speed Balancer,62.1,3.22,1.8,0.9,speedbalancer,FALSE
-RG1,57.9,2.82,1.4,1.0,tc7,TRUE
-Trundle Buster,61.5,2.92,4,1.0,nm_trundle,FALSE
-Ballista,62.5,4.18,2.0,1.2,ballista,FALSE
-Otaku-D,61.3,3.68,1.7,1.2,phim_sileighty,FALSE
-Pemto,65.7,2.58,1.5,1.2,pemto,FALSE
-Sidepod,63.9,2.25,1.2,1.3,sidepod,FALSE
-Big Load,61.5,1.94,3.7,1.5,jgp_bigload,FALSE
-Pest Control,66.6,1.66,2,2.3,tc3,TRUE
-Pole Poz,60.5,2.53,1.7,2.3,fone,TRUE
-Roadkill,64.4,3.53,1.25,2.4,roadkill,FALSE
-Project Octagon,62.5,2.34,1.6,2.5,pm_octa,FALSE
-Rotor,65.3,2.01,3,2.9,rotor,TRUE
-RV Loco,63.6,1.98,2.25,3.2,jg3loco,TRUE
+name,speed,acc,weight,multiplier,folder_name,author,stock
+Adeon,59.1,2.97,1.2,0.7,adeon,Acclaim Studios London,TRUE
+Docta,57.8,4.2,1.2,0.7,docta,TTDriver,FALSE
+Dragoon,61.2,2.26,2.2,0.7,nrf_dragoon,Norfair,FALSE
+Sir Racealot,58.2,3.77,1.8,0.7,tcp_camelot,Xarc,FALSE
+Teacee,59.0,2.98,2.0,0.7,teacee,TTDriver,FALSE
+Touga,65.7,3.08,2,0.7,touga,MightyCucumber,FALSE
+Zipper,60.7,2.82,1.4,0.8,tc1,Acclaim Studios London,TRUE
+JG-7,59,2.72,1.2,0.8,jg1jg7,Acclaim Studios London,TRUE
+Ancile,58.2,2.29,2.5,0.8,lib6ax_ancile,Norfair,FALSE
+Argon,60,3.81,1.3,0.8,gtc_argon,Ghosterino,FALSE
+Mambra,58.6,4.37,1.6,0.8,mambra,MightyCucumber,FALSE
+Yognac,59.8,2.86,1.34,0.8,yognac,Zeino,FALSE
+5TP,62.2,3.04,2.5,0.9,jgp_5tp,Norfair,FALSE
+Chilla,62,2.22,1.4,0.9,tcp_chilla,BloodBTF,FALSE
+Gravel Basher,59.8,2.45,1.2,0.9,gravelbasher,TTDriver,FALSE
+Gridlock,58.1,2.42,1.4,0.9,tcp_gridlock,Norfair,FALSE
+Maxam RS,61.1,2.23,1.7,0.9,maxamrs,BloodBTF,FALSE
+Runner 2000,59.8,3.18,1.32,0.9,nrf_runner,Norfair,FALSE
+Sasquatch,61.4,2.47,3,0.9,sasquatch,kiwi,FALSE
+Speed Balancer,62.1,3.22,1.8,0.9,speedbalancer,TTDriver,FALSE
+RG1,57.9,2.82,1.4,1.0,tc7,Acclaim Studios London,TRUE
+Mosher,60.7,2.37,2,1.0,tcp_metalhead,burner94,FALSE
+Trundle Buster,61.5,2.92,4,1.0,nm_trundle,Paperman,FALSE
+Twenty-M,63.4,2.16,1.2,1.0,tc6super20,burner94,FALSE
+Ballista,62.5,4.18,2.0,1.2,ballista,TTDriver,FALSE
+Pemto,65.7,2.58,1.5,1.2,pemto,kiwi,FALSE
+Big Load,61.5,1.94,3.7,1.5,jgp_bigload,Norfair,FALSE
+Pest Control,66.6,1.66,2,2.3,tc3,Acclaim Studios London,TRUE
+Pole Poz,60.5,2.53,1.7,2.3,fone,Acclaim Studios London,TRUE
+Roadkill,64.4,3.53,1.25,2.5,roadkill,Zeino,FALSE
+Rotor,65.3,2.01,3,2.9,rotor,Acclaim Studios London,TRUE
+RV Loco,63.6,1.98,2.25,3.2,jg3loco,Acclaim Studios London,TRUE
