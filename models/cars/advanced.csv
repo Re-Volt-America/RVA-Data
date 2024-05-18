@@ -1,29 +1,29 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
 R6 Turbo,59.4,2.47,0.8,0.7,r5,Acclaim Studios London,TRUE
 Alpina XL,54.6,2.63,1.8,0.7,tcp_alpina,Trixed,FALSE
-Glass Cannon,52.5,13.7,0.7,0.7,tcp_glass,Norfair,FALSE
 Kyoki,56.8,2.73,1.4,0.7,kyoki,Trixed,FALSE
 Top Tier,55,2.28,1.4,0.7,fd89top,Xarc,FALSE
 Bertha Ballistics,56.9,2.24,3,0.8,sgt,Acclaim Studios London,TRUE
 Arctic Stomper,57,2.38,2.3,0.8,gtc_arcstomper,Ghosterino,FALSE
 Drawall,54.2,2.67,1.4,0.8,lib7a_spray,Paperman,FALSE
-Exert,60.4,2.37,1.25,0.8,exert,burner94,FALSE
+Emperor,57.6,2.34,2,0.8,emperor,Trixed,FALSE
+Glass Cannon,52.5,13.7,0.7,0.8,tcp_glass,Norfair,FALSE
 Le Pastel,56.8,2.14,2,0.8,fd110pastel,Xarc,FALSE
 Springtrap,55,2.8,1.2,0.8,rv2_buggy,MightyCucumber,FALSE
 Breaker,57.5,2.06,1.6,0.9,breaker,TTDriver,FALSE
 Dust Shot,54.8,2.19,1.5,0.9,dustshot,TTDriver,FALSE
 DRJ-61,54.7,2.44,2,0.9,phim_drj-61,Phimeek,FALSE
-Emperor,57.6,2.34,2,0.9,emperor,Trixed,FALSE
 Llag Sat,58.6,2.14,3.2,0.9,nrf_lag,Norfair,FALSE
 Looper,54.8,3.27,1.6,0.9,tcp_looper,Norfair,FALSE
+Moonshine XL,58.1,2.75,1.8,0.9,tcp_moonshine,Norfair,FALSE
 WILL,57,2.47,1.65,0.9,phim_will,Phimeek,FALSE
 YNZ,58.7,2.16,1.7,0.9,nrf_ynz,Norfair,FALSE
 Panga TC,59.9,2.13,1.8,1.0,tc2,Acclaim Studios London,TRUE
 Shocker,57.2,2.13,1.8,1.0,tc8,Acclaim Studios London,TRUE
 Diamond,55.9,2.23,1.2,1.0,diamond,TTDriver,FALSE
+Exert,60.4,2.37,1.25,1.0,exert,burner94,FALSE
 Metal Masher,53.4,2.59,2.7,1.0,jgp_metalmasher,Ghosterino,FALSE
 Flower Power,57.8,2.76,1.6,1.1,flowerpower2,MightyCucumber,FALSE
-Moonshine XL,58.1,2.75,1.8,1.1,tcp_moonshine,Norfair,FALSE
 Panther,62.9,2.18,1.65,1.1,panthergto,kiwi,FALSE
 BossVolt,57.4,2.16,3.5,1.2,bossvolt,Acclaim Studios London,TRUE
 Groovster,55.7,1.66,2,1.2,tc9,Acclaim Studios London,TRUE
