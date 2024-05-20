@@ -4,7 +4,6 @@ Phantera ART,72.9,3.59,1.75,0.7,phanteraart,FZG (Ziggy),FALSE
 Raven,70.4,3.5,2.5,0.7,raven,Norfair,FALSE
 Revolution 12,71.4,4.48,1.8,0.7,gtc_revolution12,Ghosterino,FALSE
 Wyvern,70.7,3.81,1.8,0.7,tcp_wyvern,Norfair,FALSE
-Alter,70.4,3.02,2.5,0.8,alter,TTDriver,FALSE
 Calcure,71.2,2.87,2,0.8,phim_calcure,Phimeek,FALSE
 Commandine,65.1,3.44,2,0.8,fd101command,Xarc,FALSE
 La Rossa,73,4.14,2,0.8,fd94rossa,Xarc,FALSE
@@ -13,6 +12,7 @@ Spedion,69.5,4.13,2,0.8,phim_jgspedion,Phimeek,FALSE
 Starmac,68.7,3.54,1.8,0.8,starmac,MightyCucumber,FALSE
 Tesseract,71.5,4.02,2,0.8,fd_s7,Xarc,FALSE
 XM250,70.4,3.13,1.4,0.8,xm250,Norfair,FALSE
+Alter,70.4,3.02,2.5,0.9,alter,TTDriver,FALSE
 Argon Auto,71.5,4.3,1.8,0.9,tcp_argon,MightyCucumber,FALSE
 Disruption,67.9,3.52,3,0.9,tcp_disruption,Norfair,FALSE
 Gungnir,67.9,3.46,3.3,0.9,gungnir,TTDriver,FALSE
@@ -26,8 +26,8 @@ King Kaiju,72.7,4.4,1.75,1.0,tx11kaiju,Trixed,FALSE
 King Moloko,77.3,3.04,2.7,1.0,kingmoloko,kiwi,FALSE
 Megalodon XL,77.3,3.74,2.2,1.0,megalodonxl,Norfair,FALSE
 Saeger,71.5,5.8,2,1.0,saeger,Skarma,FALSE
-Petty,73.6,2.87,1.7,1.1,gtc_petty,Ghosterino,FALSE
 Rinne,80.6,3.69,1.9,1.1,rinne,Xarc,FALSE
 Identity X,78.3,3.38,2.5,1.2,fd95x,Xarc,FALSE
+Petty,73.6,2.87,1.7,1.3,gtc_petty,Ghosterino,FALSE
 Napalm,76.1,5.43,2,1.4,fd_s21,Xarc,FALSE
 Oblitenitro,83.5,2.38,3.5,1.5,oblitenitro,FZG (Ziggy),FALSE

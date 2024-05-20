@@ -2,11 +2,11 @@ name,speed,acc,weight,multiplier,folder_name,author,stock
 RC Bandit,51.7,2.09,1.2,0.7,rc,Acclaim Studios London,TRUE
 Dr. Grudge,51.3,2.54,1.4,0.7,beatall,Acclaim Studios London,TRUE
 Sprinter XL,50.7,3.2,0.9,0.7,tc6,Acclaim Studios London,TRUE
-Cheat Code Central,49.6,1.95,1.6,0.7,phim_cheatcc,Phimeek,FALSE
 E-Razr,47.2,3.1,1.1,0.7,erazer,MightyCucumber,FALSE
 Hurricane,48.8,2.3,1.5,0.7,hurri,MightyCucumber,FALSE
 Harvester,47.9,2.32,1.7,0.8,mud,Acclaim Studios London,TRUE
 Albatross GT,48.5,2.36,1.4,0.8,albatrossgt,BloodBTF,FALSE
+Cheat Code Central,49.6,1.95,1.6,0.8,phim_cheatcc,Phimeek,FALSE
 Condor GRV,51.5,2.73,1.5,0.8,condorgrv,TTDriver,FALSE
 Funk Flea,51.0,2.77,1.14,0.8,flea,MightyCucumber,FALSE
 High-Rod,49,2.17,1.9,0.8,rod,MightyCucumber,FALSE
