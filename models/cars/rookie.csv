@@ -1,6 +1,6 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
-RC Bandit,51.7,2.09,1.2,0.7,rc,Acclaim Studios London,TRUE
 Dr. Grudge,51.3,2.54,1.4,0.7,beatall,Acclaim Studios London,TRUE
+RC Bandit,51.7,2.09,1.2,0.7,rc,Acclaim Studios London,TRUE
 Sprinter XL,50.7,3.2,0.9,0.7,tc6,Acclaim Studios London,TRUE
 E-Razr,47.2,3.1,1.1,0.7,erazer,MightyCucumber,FALSE
 Hurricane,48.8,2.3,1.5,0.7,hurri,MightyCucumber,FALSE
@@ -14,14 +14,14 @@ LR 64,54.1,1.55,1.7,0.8,fd64lost,Xarc,FALSE
 Mr Bedtime,54.9,1.94,1.8,0.8,mrbedtime,Zeino,FALSE
 Panorama,50.6,2.3,1.35,0.8,fd50pano,Xarc,FALSE
 Road Star,50.3,2.49,0.8,0.8,roadstar,Trixed,FALSE
+BigVolt,52.8,2.36,2.3,0.9,bigvolt,Acclaim Studios London,TRUE
 Col. Moss,52.8,2.17,1.5,0.9,moss,Acclaim Studios London,TRUE
 Volken Turbo,49.5,2.24,1.6,0.9,volken,Acclaim Studios London,TRUE
-BigVolt,52.8,2.36,2.3,0.9,bigvolt,Acclaim Studios London,TRUE
-Beeble,52.3,2.38,1.2,0.9,beeble,MightyCucumber,FALSE
 Ferrada,54.1,2.06,1.2,0.9,ferrada,TTDriver,FALSE
 Nesbitt,53.5,1.81,1.5,0.9,nesbitt,Skarma,FALSE
 Rebound 4X4,53.8,2.25,1.5,0.9,rebound,Paperman,FALSE
 Turbo Katto,46.8,2.48,4,0.9,katto,burner94,FALSE
+Beeble,52.3,2.38,1.2,1.0,beeble,MightyCucumber,FALSE
 Toukka 4x4,49.1,2.47,2.2,1.0,toukka,Zeino,FALSE
 Get Air,51.7,3.31,2.7,1.1,getair,MightyCucumber,FALSE
 Rouge,52,2.57,1.2,1.1,fd25sporty,Xarc,FALSE

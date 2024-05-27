@@ -5,9 +5,9 @@ Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,22
 Botanical Garden EX,BGX,2,807,fdt9xgarden,Xarc,FALSE,45
 Calaboq,CBQ,-1,512,calaboq,Gforce,FALSE,33
 Cardboard Castle,CC,0,426,pmt_box,Paperman,FALSE,26
-Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,42
-Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,42
-Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,41
+Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,40
+Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,40
+Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,40
 Desolate District 1,DD1,2,657,district,RV_Pure,FALSE,42
 Downtown 1,DT1,1,800,dtown1,G_J,FALSE,46
 Downtown 2,DT2,3,916,dtown2,G_J,FALSE,50
@@ -21,7 +21,7 @@ Game Room 2,GR2,2,635,fdt24arcade2,Xarc,FALSE,37
 Ghost Town 1,GT1,1,324,wild_west1,Acclaim Studios London,TRUE,22
 Ghost Town 2,GT2,3,490,wild_west2,Acclaim Studios London,TRUE,30
 Grisville,GV,3,648,ghetto,Allan1,FALSE,44
-Helios/Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,42
+Helios/Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,40
 HMS Invincible: Redux,HMS,1,621,hms_redux,MOH,FALSE,38
 Holiday Camp: California Edition,HC,-1,1170,hcampcal,Marv,FALSE,76
 Home 1,HO1,0,237,home1,G_J,FALSE,14
@@ -73,7 +73,7 @@ Toy World Mayhem,TWM,-1,465,toymayhem,Killer Wheels,FALSE,33
 Toys in the Hood 1,TH1,0,747,nhood1,Acclaim Studios London,TRUE,40
 Toys in the Hood 2,TH2,2,592,nhood2,Acclaim Studios London,TRUE,35
 Toys in the Hood 4 (RVA),TH4,3,706,nhood4_rva,Chris Johannsen,FALSE,40
-ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,34
+ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,28
 Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,42
 Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,42
 User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,39
