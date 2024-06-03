@@ -1,18 +1,18 @@
-name,speed,acc,weight,multiplier,folder_name,stock,author
-Clockwork Rally,55.0,2.96,1.25,0.7,wincarrally,FALSE,RV_Pure
-Clockwork Rod,52.9,2.50,1.18,0.7,wincarrod,FALSE,RV_Pure
-Clockwork Turbo,55.5,3.29,1.14,0.7,wincarturbo,FALSE,RV_Pure
-Clockwork Peak,51.1,4.57,0.9,0.8,wincarppeak,FALSE,TTDriver
-Clockwork Sport,52.4,2.34,1.28,0.8,wincarsport,FALSE,RV_Pure
-Clockwork Midget,52.7,2.35,1.16,0.8,wincarmidget,FALSE,RV_Pure
-Clockwork Kart,53.6,2.31,1.3,0.8,wincarkart,FALSE,Paperman
-Clockwork Banger,52.4,1.92,1.33,0.9,wincarbanger,FALSE,RV_Pure
-Clockwork Mud,54.0,2.21,1.21,0.9,wincarmud,FALSE,RV_Pure
-Clockwork Modify,52.9,2.75,1.0,0.9,wincarmodify,FALSE,Paperman
-Clockwork Ghibli,52.9,2.47,1.25,1,wincarghibli,FALSE,Kiwi
-Clockwork Baja,53.5,1.93,1.3,1,wincarbaja,FALSE,RV_Pure
-Clockwork Beast,54.9,1.73,1.5,1,wincarbeast,FALSE,RV_Pure
-Clockwork Trial,53.6,1.64,1.7,1.2,wincartrial,FALSE,RV_Pure
-Clockwork Super,54.3,3.23,1.1,1.4,wincarsuper,FALSE,TTDriver
-Clockwork Stream,53.2,2.21,1.22,1.5,wincarstream,FALSE,RV_Pure
-Clockwork Buggy,52.5,2.26,1.2,1.5,wincarbuggy,FALSE,RV_Pure
+name,speed,acc,weight,multiplier,folder_name,author,stock
+Clockwork Rally,55,2.96,1.25,0.7,wincarrally,RV_Pure,FALSE
+Clockwork Rod,52.9,2.5,1.18,0.7,wincarrod,RV_Pure,FALSE
+Clockwork Turbo,55.5,3.29,1.14,0.7,wincarturbo,RV_Pure,FALSE
+Clockwork Peak,51.1,4.57,0.9,0.8,wincarppeak,TTDriver,FALSE
+Clockwork Sport,52.4,2.34,1.28,0.8,wincarsport,RV_Pure,FALSE
+Clockwork Midget,52.7,2.35,1.16,0.8,wincarmidget,RV_Pure,FALSE
+Clockwork Kart,53.6,2.31,1.3,0.8,wincarkart,Paperman,FALSE
+Clockwork Banger,52.4,1.92,1.33,0.9,wincarbanger,RV_Pure,FALSE
+Clockwork Mud,54,2.21,1.21,0.9,wincarmud,RV_Pure,FALSE
+Clockwork Modify,52.9,2.75,1,0.9,wincarmodify,Paperman,FALSE
+Clockwork Ghibli,52.9,2.47,1.25,1,wincarghibli,Kiwi,FALSE
+Clockwork Baja,53.5,1.93,1.3,1,wincarbaja,RV_Pure,FALSE
+Clockwork Beast,54.9,1.73,1.5,1,wincarbeast,RV_Pure,FALSE
+Clockwork Trial,53.6,1.64,1.7,1.2,wincartrial,RV_Pure,FALSE
+Clockwork Super,54.3,3.23,1.1,1.4,wincarsuper,TTDriver,FALSE
+Clockwork Stream,53.2,2.21,1.22,1.5,wincarstream,RV_Pure,FALSE
+Clockwork Buggy,52.5,2.26,1.2,1.5,wincarbuggy,RV_Pure,FALSE
