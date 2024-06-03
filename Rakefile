@@ -35,7 +35,7 @@ task :profile_cars do
         "\s\s\s\smultiplier: #{l[4]}",
         "\s\s\s\sfolder_name: #{l[5]}",
         "\s\s\s\sauthor: #{l[6]}",
-        "\s\s\s\sstock: #{l[6].downcase}"
+        "\s\s\s\sstock: #{l[7].downcase}"
       ]
 
       car_lines.each do |line|
