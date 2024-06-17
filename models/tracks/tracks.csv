@@ -28,7 +28,7 @@ Home 1,HO1,0,237,home1,G_J,FALSE,14
 Home 2,HO2,2,489,home2,G_J,FALSE,27
 Hospital 1,HP1,2,623,hospital1,G_J,FALSE,35
 Hospital 2,HP2,2,399,hospital2,G_J,FALSE,26
-Hull Breach 3000 (RVA),HB3,3,508,breach3000_rva,Gorgonzola,FALSE,34
+Hull Breach 3000 (RVA),HB3,3,508,breach3000_rva,Gorgonzola,FALSE,32
 Jailhouse Rock,JR,-1,729,jailhouse,Human,FALSE,45
 Kadish Sprint,KS,2,814,kadishs,Dyspro50,FALSE,56
 Library,LIB,3,570,library,CapitaineSZM,FALSE,45
@@ -36,7 +36,7 @@ Market Mayhem,MM,1,448,marketmayhem,BloodBTF,FALSE,26
 Metro-Volt,MV,-1,649,metrovolt,Human,FALSE,42
 MineZcraft,MZC,-1,438,minezcraft,Zach,FALSE,33
 Moon Dawn,MD,3,1418,dome3,Allan1,FALSE,92
-Motel in the Hood,MIH,-1,325,motelinhood,MirkoGT97,FALSE,27
+Motel in the Hood,MIH,-1,325,motelinhood,MirkoGT97,FALSE,25
 Museum 1,M1,2,668,muse1,Acclaim Studios London,TRUE,46
 Museum 2,M2,0,600,muse2,Acclaim Studios London,TRUE,34
 Museum 3,M3,0,539,muse3,hilaire9,FALSE,40
