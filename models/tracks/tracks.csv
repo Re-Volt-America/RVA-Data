@@ -11,7 +11,7 @@ Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,40
 Desolate District 1,DD1,2,657,district,RV_Pure,FALSE,42
 Downtown 1,DT1,1,800,dtown1,G_J,FALSE,46
 Downtown 2,DT2,3,916,dtown2,G_J,FALSE,50
-Elementary 1,E1,0,374,elementary1,G_J,FALSE,27
+Elementary 1,E1,0,374,elementary1,G_J,FALSE,25
 Elementary 2,E2,0,402,elementary2,G_J,FALSE,27
 Fairground 1,FG1,1,363,fair1,G_J,FALSE,24
 Fairground 2,FG2,3,766,fair2,G_J,FALSE,45
@@ -63,7 +63,7 @@ Spa-Volt 1,SV1,3,595,spavolt1,kiwi,FALSE,44
 Spa-Volt 2,SV2,3,532,spavolt2,kiwi,FALSE,35
 Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,35
 StadVolt,STV,2,571,stadvolt,L17,FALSE,32
-Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,65
+Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,57
 SuperMarket 1,SM1,3,502,market1,Acclaim Studios London,TRUE,32
 SuperMarket 2,SM2,0,301,market2,Acclaim Studios London,TRUE,17
 The Great Silence,TGS,3,583,winterwest,kiwi,FALSE,42
