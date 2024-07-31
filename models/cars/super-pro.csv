@@ -16,7 +16,7 @@ Alter,70.4,3.02,2.5,0.9,alter,TTDriver,FALSE
 Argon Auto,71.5,4.3,1.8,0.9,tcp_argon,MightyCucumber,FALSE
 Disruption,67.9,3.52,3,0.9,tcp_disruption,Norfair,FALSE
 Gungnir,67.9,3.46,3.3,0.9,gungnir,TTDriver,FALSE
-Madax GT,71.6,2.75,2.15,0.9,fzg_madax,FZG (Ziggy),FALSE
+Hoshino,75.7,3.24,2,0.9,hoshino,burner94,FALSE
 Nahesa,71.4,3.62,1.6,0.9,yun_nahesa,yun,FALSE
 Nakajima,76.2,3.2,1.25,0.9,nakajima,burner94,FALSE
 Voltrex,72.8,3.88,1.3,0.9,moz_voltrex,MightyCucumber,FALSE
@@ -27,7 +27,7 @@ Megalodon XL,77.3,3.74,2.2,1.0,megalodonxl,Norfair,FALSE
 Saeger,71.5,5.8,2,1.0,saeger,Skarma,FALSE
 Identity X,78.3,3.38,2.5,1.1,fd95x,Xarc,FALSE
 Rinne,80.6,3.69,1.9,1.1,rinne,Xarc,FALSE
-Ilmenite,73.8,3.22,3.5,1.4,yun_ilmenite,yun,FALSE
+Ilmenite,75.0,3.94,3.5,1.4,yun_ilmenite,yun,FALSE
 Napalm,76.1,5.43,2,1.4,fd_s21,Xarc,FALSE
 Oblitenitro,83.5,2.38,3.5,1.5,oblitenitro,FZG (Ziggy),FALSE
 Petty,73.6,2.87,1.7,2.0,gtc_petty,Ghosterino,FALSE
