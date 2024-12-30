@@ -74,7 +74,8 @@ task :profile_tracks do
         "\s\s\s\sfolder_name: #{l[4]}",
         "\s\s\s\sauthor: #{l[5]}",
         "\s\s\s\sstock: #{l[6].downcase}",
-        "\s\s\s\saverage_lap_time: #{l[7].downcase}"
+        "\s\s\s\slego: #{l[7].downcase}",
+        "\s\s\s\saverage_lap_time: #{l[8].downcase}"
       ]
 
       track_lines.each do |line|

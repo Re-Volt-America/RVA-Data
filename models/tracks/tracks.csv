@@ -1,82 +1,82 @@
-name,short_name,difficulty,length,folder_name,author,stock,average_lap_time
-Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,35
-Aqueduct,AQU,2,426,aqueduct,hilarious6,FALSE,31
-Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,22
-Botanical Garden EX,BGX,2,807,fdt9xgarden,Xarc,FALSE,45
-Calaboq,CBQ,-1,512,calaboq,Gforce,FALSE,33
-Cardboard Castle,CC,0,426,pmt_box,Paperman,FALSE,26
-Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,40
-Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,40
-Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,40
-Desolate District 1,DD1,2,657,district,RV_Pure,FALSE,42
-Downtown 1,DT1,1,800,dtown1,G_J,FALSE,42
-Downtown 2,DT2,3,916,dtown2,G_J,FALSE,50
-Elementary 1,E1,0,374,elementary1,G_J,FALSE,25
-Elementary 2,E2,0,402,elementary2,G_J,FALSE,25
-Fairground 1,FG1,1,363,fair1,G_J,FALSE,24
-Fairground 2,FG2,3,766,fair2,G_J,FALSE,45
-Forest Mansion 2 (RVA),FM2,1,478,ccastle2_rva,Chris Johannsen,FALSE,33
-Game Room 1,GR1,1,417,fdt23arcade1,Xarc,FALSE,25
-Game Room 2,GR2,2,635,fdt24arcade2,Xarc,FALSE,35
-Ghost Town 1,GT1,1,324,wild_west1,Acclaim Studios London,TRUE,22
-Ghost Town 2,GT2,3,490,wild_west2,Acclaim Studios London,TRUE,30
-Grisville,GV,3,648,ghetto,Allan1,FALSE,44
-Helios/Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,40
-HMS Invincible: Redux,HMS,1,621,hms_redux,MOH,FALSE,38
-Holiday Camp: California Edition,HC,-1,1170,hcampcal,Marv,FALSE,76
-Home 1,HO1,0,237,home1,G_J,FALSE,14
-Home 2,HO2,2,489,home2,G_J,FALSE,27
-Hospital 1,HP1,2,623,hospital1,G_J,FALSE,35
-Hospital 2,HP2,2,399,hospital2,G_J,FALSE,26
-Hull Breach 3000 (RVA),HB3,3,508,breach3000_rva,Gorgonzola,FALSE,32
-Jailhouse Rock,JR,-1,729,jailhouse,Human,FALSE,45
-Kadish Sprint,KS,2,814,kadishs,Dyspro50,FALSE,56
-Library,LIB,3,570,library,CapitaineSZM,FALSE,42
-Market Mayhem,MM,1,448,marketmayhem,BloodBTF,FALSE,26
-Metro-Volt,MV,-1,649,metrovolt,Human,FALSE,42
-MineZcraft (RVA),MZC,-1,438,minezcraft_rva,Zach,FALSE,33
-Moon Dawn,MD,3,1418,dome3,Allan1,FALSE,92
-Motel in the Hood,MIH,-1,325,motelinhood,MirkoGT97,FALSE,25
-Museum 1,M1,2,668,muse1,Acclaim Studios London,TRUE,46
-Museum 2,M2,0,600,muse2,Acclaim Studios London,TRUE,34
-Museum 3,M3,0,539,muse3,hilaire9,FALSE,40
-Museum EX,MX,3,970,fdt13xmuse,Xarc,FALSE,55
-Museum Unleashed (RVA),MU,2,1295,museun_rva,maxi,FALSE,75
-Paper Town 1,PT1,1,350,papertown1,CapitaineSZM,FALSE,22
-PetroVolt,PV,3,948,petrol,Gabor,FALSE,50
-Port Limano 1,PL1,1,308,portlimano1,benderfan3124,FALSE,21
-Port Limano 2,PL2,2,616,portlimano2,benderfan3124,FALSE,35
-Port Limano EX,PLX,3,819,portlimanoex,benderfan3124,FALSE,43
-Quake!,Q!,3,843,quake,Gabor,FALSE,47
-Rigs Highway,RH,2,671,pmt_highway,Paperman,FALSE,42
-Rooftop Chase: Redux,RCR,-1,605,roofchaseredux,r6te,FALSE,45
-Rooftops,RT,1,588,roof,Acclaim Studios London,TRUE,38
-Rooftops 1,RT1,3,717,roof1,G_J,FALSE,45
-RV Temple (RVA),RVT,-1,1116,rvt_rva,Antimorph,FALSE,75
-Sakura,SKR,-1,752,sakura,Human,FALSE,45
-Santorini,SAN,0,500,santorini,Alexander,FALSE,28
-School's Out! 1,SO1,1,495,schoolslite,kiwi,FALSE,30
-School's Out! 2,SO2,3,1545,schools,kiwi,FALSE,106
-Skating Toys Redux,STR,3,1011,skatoysred,Zorbah,FALSE,60
-Spa-Volt 1,SV1,3,595,spavolt1,kiwi,FALSE,42
-Spa-Volt 2,SV2,3,532,spavolt2,kiwi,FALSE,35
-Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,35
-StadVolt,STV,2,571,stadvolt,L17,FALSE,32
-Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,57
-SuperMarket 1,SM1,3,502,market1,Acclaim Studios London,TRUE,33
-SuperMarket 2,SM2,0,301,market2,Acclaim Studios London,TRUE,17
-The Great Silence,TGS,3,583,winterwest,kiwi,FALSE,40
-Toy World 1,TW1,1,354,toylite,Acclaim Studios London,TRUE,22
-Toy World 2,TW2,1,444,toy2,Acclaim Studios London,TRUE,28
-Toy World Mayhem,TWM,-1,465,toymayhem,Killer Wheels,FALSE,33
-Toys in the Hood 1,TH1,0,747,nhood1,Acclaim Studios London,TRUE,40
-Toys in the Hood 2,TH2,2,592,nhood2,Acclaim Studios London,TRUE,35
-Toys in the Hood 4 (RVA),TH4,3,706,nhood4_rva,Chris Johannsen,FALSE,40
-ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,31
-ToySoldierz 2024,T24,1,910,toysoldierz24,Skitch2,FALSE,47
-Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,42
-Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,42
-User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,39
-Venice,VN,3,617,venice,Gabor,FALSE,40
-White Rose Chapel,WRC,-1,653,whiterose,hilaire9,FALSE,45
-Wladyslawowo,WLW,2,619,wladyslawowo,hilarious6,FALSE,35
+name,short_name,difficulty,length,folder_name,author,stock,lego,average_lap_time
+Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,FALSE,35
+Aqueduct,AQU,2,426,aqueduct,hilarious6,FALSE,FALSE,31
+Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,FALSE,22
+Botanical Garden EX,BGX,2,807,fdt9xgarden,Xarc,FALSE,FALSE,45
+Calaboq,CBQ,-1,512,calaboq,Gforce,FALSE,TRUE,33
+Cardboard Castle,CC,0,426,pmt_box,Paperman,FALSE,FALSE,26
+Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,FALSE,40
+Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,FALSE,40
+Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,FALSE,40
+Desolate District 1,DD1,2,657,district,RV_Pure,FALSE,FALSE,42
+Downtown 1,DT1,1,800,dtown1,G_J,FALSE,FALSE,42
+Downtown 2,DT2,3,916,dtown2,G_J,FALSE,FALSE,50
+Elementary 1,E1,0,374,elementary1,G_J,FALSE,FALSE,25
+Elementary 2,E2,0,402,elementary2,G_J,FALSE,FALSE,25
+Fairground 1,FG1,1,363,fair1,G_J,FALSE,FALSE,24
+Fairground 2,FG2,3,766,fair2,G_J,FALSE,FALSE,45
+Forest Mansion 2 (RVA),FM2,1,478,ccastle2_rva,Chris Johannsen,FALSE,FALSE,33
+Game Room 1,GR1,1,417,fdt23arcade1,Xarc,FALSE,FALSE,25
+Game Room 2,GR2,2,635,fdt24arcade2,Xarc,FALSE,FALSE,35
+Ghost Town 1,GT1,1,324,wild_west1,Acclaim Studios London,TRUE,FALSE,22
+Ghost Town 2,GT2,3,490,wild_west2,Acclaim Studios London,TRUE,FALSE,30
+Grisville,GV,3,648,ghetto,Allan1,FALSE,FALSE,44
+Helios/Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,FALSE,40
+HMS Invincible: Redux,HMS,1,621,hms_redux,MOH,FALSE,FALSE,38
+Holiday Camp: California Edition,HC,-1,1170,hcampcal,Marv,FALSE,FALSE,76
+Home 1,HO1,0,237,home1,G_J,FALSE,FALSE,14
+Home 2,HO2,2,489,home2,G_J,FALSE,FALSE,27
+Hospital 1,HP1,2,623,hospital1,G_J,FALSE,FALSE,35
+Hospital 2,HP2,2,399,hospital2,G_J,FALSE,FALSE,26
+Hull Breach 3000 (RVA),HB3,3,508,breach3000_rva,Gorgonzola,FALSE,FALSE,32
+Jailhouse Rock,JR,-1,729,jailhouse,Human,FALSE,FALSE,45
+Kadish Sprint,KS,2,814,kadishs,Dyspro50,FALSE,FALSE,56
+Library,LIB,3,570,library,CapitaineSZM,FALSE,FALSE,42
+Market Mayhem,MM,1,448,marketmayhem,BloodBTF,FALSE,FALSE,26
+Metro-Volt,MV,-1,649,metrovolt,Human,FALSE,FALSE,42
+MineZcraft (RVA),MZC,-1,438,minezcraft_rva,Zach,FALSE,FALSE,33
+Moon Dawn,MD,3,1418,dome3,Allan1,FALSE,FALSE,92
+Motel in the Hood,MIH,-1,325,motelinhood,MirkoGT97,FALSE,FALSE,25
+Museum 1,M1,2,668,muse1,Acclaim Studios London,TRUE,FALSE,46
+Museum 2,M2,0,600,muse2,Acclaim Studios London,TRUE,FALSE,34
+Museum 3,M3,0,539,muse3,hilaire9,FALSE,FALSE,40
+Museum EX,MX,3,970,fdt13xmuse,Xarc,FALSE,FALSE,55
+Museum Unleashed (RVA),MU,2,1295,museun_rva,maxi,FALSE,FALSE,75
+Paper Town 1,PT1,1,350,papertown1,CapitaineSZM,FALSE,FALSE,22
+PetroVolt,PV,3,948,petrol,Gabor,FALSE,FALSE,50
+Port Limano 1,PL1,1,308,portlimano1,benderfan3124,FALSE,FALSE,21
+Port Limano 2,PL2,2,616,portlimano2,benderfan3124,FALSE,FALSE,35
+Port Limano EX,PLX,3,819,portlimanoex,benderfan3124,FALSE,FALSE,43
+Quake!,Q!,3,843,quake,Gabor,FALSE,FALSE,47
+Rigs Highway,RH,2,671,pmt_highway,Paperman,FALSE,FALSE,42
+Rooftop Chase: Redux,RCR,-1,605,roofchaseredux,r6te,FALSE,FALSE,45
+Rooftops,RT,1,588,roof,Acclaim Studios London,TRUE,FALSE,38
+Rooftops 1,RT1,3,717,roof1,G_J,FALSE,FALSE,45
+RV Temple (RVA),RVT,-1,1116,rvt_rva,Antimorph,FALSE,FALSE,75
+Sakura,SKR,-1,752,sakura,Human,FALSE,FALSE,45
+Santorini,SAN,0,500,santorini,Alexander,FALSE,FALSE,28
+School's Out! 1,SO1,1,495,schoolslite,kiwi,FALSE,FALSE,30
+School's Out! 2,SO2,3,1545,schools,kiwi,FALSE,FALSE,106
+Skating Toys Redux,STR,3,1011,skatoysred,Zorbah,FALSE,FALSE,60
+Spa-Volt 1,SV1,3,595,spavolt1,kiwi,FALSE,FALSE,42
+Spa-Volt 2,SV2,3,532,spavolt2,kiwi,FALSE,FALSE,35
+Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,FALSE,35
+StadVolt,STV,2,571,stadvolt,L17,FALSE,FALSE,32
+Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,FALSE,57
+SuperMarket 1,SM1,3,502,market1,Acclaim Studios London,TRUE,FALSE,33
+SuperMarket 2,SM2,0,301,market2,Acclaim Studios London,TRUE,FALSE,17
+The Great Silence,TGS,3,583,winterwest,kiwi,FALSE,FALSE,40
+Toy World 1,TW1,1,354,toylite,Acclaim Studios London,TRUE,FALSE,22
+Toy World 2,TW2,1,444,toy2,Acclaim Studios London,TRUE,FALSE,28
+Toy World Mayhem,TWM,-1,465,toymayhem,Killer Wheels,FALSE,FALSE,33
+Toys in the Hood 1,TH1,0,747,nhood1,Acclaim Studios London,TRUE,FALSE,40
+Toys in the Hood 2,TH2,2,592,nhood2,Acclaim Studios London,TRUE,FALSE,35
+Toys in the Hood 4 (RVA),TH4,3,706,nhood4_rva,Chris Johannsen,FALSE,FALSE,40
+ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,FALSE,31
+ToySoldierz 2024,T24,1,910,toysoldierz24,Skitch2,FALSE,FALSE,47
+Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,FALSE,42
+Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,FALSE,42
+User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,TRUE,39
+Venice,VN,3,617,venice,Gabor,FALSE,FALSE,40
+White Rose Chapel,WRC,-1,653,whiterose,hilaire9,FALSE,FALSE,45
+Wladyslawowo,WLW,2,619,wladyslawowo,hilarious6,FALSE,FALSE,35
