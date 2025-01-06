@@ -2,7 +2,6 @@ name,speed,acc,weight,multiplier,folder_name,author,stock
 R6 Turbo,59.4,2.47,0.8,0.7,r5,Acclaim Studios London,TRUE
 Top Tier,55,2.28,1.4,0.7,fd89top,Xarc,FALSE
 Twilight GT,55.9,2.75,1.3,0.7,tcp_twilight,Norfair,FALSE
-Bertha Ballistics,56.9,2.24,3,0.8,sgt,Acclaim Studios London,TRUE
 Arctic Stomper,57,2.38,2.3,0.8,gtc_arcstomper,Ghosterino,FALSE
 Drawall,54.2,2.67,1.4,0.8,lib7a_spray,Paperman,FALSE
 Emperor,57.6,2.34,2,0.8,emperor,Trixed,FALSE
@@ -12,6 +11,7 @@ Rice Ball,59.4,2.05,1.6,0.8,rice,MightyCucumber,FALSE
 Spearhead,54.5,2.77,2.0,0.8,spearhead,BloodBTF,FALSE
 Springtrap,55,2.8,1.2,0.8,rv2_buggy,MightyCucumber,FALSE
 Weaver,59.8,2.02,2.0,0.8,weaver,Norfair,FALSE
+Bertha Ballistics,56.9,2.24,3,0.9,sgt,Acclaim Studios London,TRUE
 Dust Shot,54.8,2.19,1.5,0.9,dustshot,TTDriver,FALSE
 Moonshine XL,58.1,2.75,1.8,0.9,tcp_moonshine,Norfair,FALSE
 Sturm,53.1,2.90,2.0,0.9,lib14b_sturm,Norfair,FALSE
