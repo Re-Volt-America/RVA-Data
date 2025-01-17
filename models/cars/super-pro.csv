@@ -1,6 +1,7 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
 Adrenaline XL,71.1,3.89,1.4,0.7,tcp_adren,BloodBTF,FALSE
 Endo,71.2,4.75,2.7,0.7,nrf_endo,Norfair,FALSE
+Formula Z No.112,79.4,1.89,1.6,0.7,fd112fzgen975,Xarc,FALSE
 Maxxas XLR8,72.3,2.98,2.56,0.7,maxxas,Trixed,FALSE
 Phantera ART,72.9,3.59,1.75,0.7,phanteraart,FZG (Ziggy),FALSE
 Reiser,70.7,3.33,2.0,0.7,fd130rc300,Xarc,FALSE
@@ -13,7 +14,6 @@ Starmac,68.7,3.54,1.8,0.8,starmac,MightyCucumber,FALSE
 XM250,70.4,3.13,1.4,0.8,xm250,Norfair,FALSE
 Alter,70.4,3.02,2.5,0.9,alter,TTDriver,FALSE
 Argon Auto,71.5,4.3,1.8,0.9,tcp_argon,MightyCucumber,FALSE
-Formula Z No.112,79.4,1.89,1.6,0.9,fd112fzgen975,Xarc,FALSE
 Gungnir,67.9,3.46,3.3,0.9,gungnir,TTDriver,FALSE
 Hoshino,75.7,3.24,2,0.9,hoshino,burner94,FALSE
 Nain,79.4,2.65,2.25,0.9,nain,Trixed,FALSE
