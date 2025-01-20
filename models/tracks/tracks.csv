@@ -1,6 +1,6 @@
 name,short_name,difficulty,length,folder_name,author,stock,lego,average_lap_time
 Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,FALSE,35
-Airport 2,AP2,0,463,fdt17airport2,Xarc,FALSE,FALSE,27
+Airport 2,AP2,0,463,fdt17airport2,Xarc,FALSE,FALSE,28
 Aquarium 1,AQ1,3,680,aquarium1,Kiki,FALSE,FALSE,55
 Biohazard Factory,BHF,-1,819,ctr-hazard,Killer Wheels,FALSE,FALSE,55
 Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,FALSE,22
