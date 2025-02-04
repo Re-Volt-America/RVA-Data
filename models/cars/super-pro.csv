@@ -1,7 +1,6 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
 Adrenaline XL,71.1,3.89,1.4,0.7,tcp_adren,BloodBTF,FALSE
 Endo,71.2,4.75,2.7,0.7,nrf_endo,Norfair,FALSE
-Formula Z No.112,79.4,1.89,1.6,0.7,fd112fzgen975,Xarc,FALSE
 Maxxas XLR8,72.3,2.98,2.56,0.7,maxxas,Trixed,FALSE
 Phantera ART,72.9,3.59,1.75,0.7,phanteraart,FZG (Ziggy),FALSE
 Reiser,70.7,3.33,2.0,0.7,fd130rc300,Xarc,FALSE
@@ -9,7 +8,6 @@ Wyvern,70.7,3.81,1.8,0.7,tcp_wyvern,Norfair,FALSE
 Calcure,71.2,2.87,2,0.8,phim_calcure,Phimeek,FALSE
 Commandine,65.1,3.44,2,0.8,fd101command,Xarc,FALSE
 La Rossa,73,4.14,2,0.8,fd94rossa,Xarc,FALSE
-Nyx,73.6,3.52,1.6,0.8,lib8a_nyx,Norfair,FALSE
 Starmac,68.7,3.54,1.8,0.8,starmac,MightyCucumber,FALSE
 Voltrex,72.8,3.88,1.3,0.8,moz_voltrex,MightyCucumber,FALSE
 XM250,70.4,3.13,1.4,0.8,xm250,Norfair,FALSE
@@ -23,6 +21,8 @@ FLIR,71.4,5.66,2,1.0,nrf_flir,Norfair,FALSE
 King Kaiju,72.7,4.4,1.75,1.0,tx11kaiju,Trixed,FALSE
 King Moloko,77.3,3.04,2.7,1.0,kingmoloko,kiwi,FALSE
 Megalodon XL,77.3,3.74,2.2,1.0,megalodonxl,Norfair,FALSE
+Moderata,78.6,1.72,1.6,1.0,fd_s23,Xarc,FALSE
+Nyx,73.6,3.52,1.6,1.0,lib8a_nyx,Norfair,FALSE
 Saeger,71.5,5.8,2,1.0,saeger,Skarma,FALSE
 Identity X,78.3,3.38,2.5,1.1,fd95x,Xarc,FALSE
 Rinne,80.6,3.69,1.9,1.1,rinne,Xarc,FALSE
