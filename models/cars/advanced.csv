@@ -13,7 +13,6 @@ Spearhead,54.5,2.77,2.0,0.8,spearhead,BloodBTF,FALSE
 Springtrap,55,2.8,1.2,0.8,rv2_buggy,MightyCucumber,FALSE
 Weaver,59.8,2.02,2.0,0.8,weaver,Norfair,FALSE
 Bertha Ballistics,56.9,2.24,3,0.9,sgt,Acclaim Studios London,TRUE
-Moonshine XL,58.1,2.75,1.8,0.9,tcp_moonshine,Norfair,FALSE
 Sturm,53.1,2.90,2.0,0.9,lib14b_sturm,Norfair,FALSE
 Vermillion,55.2,2.42,1.4,0.9,tcp_verm,BloodBTF,FALSE
 Vibe Box,54.0,2.54,1.9,0.9,vibebox,MightyCucumber,FALSE
@@ -23,6 +22,7 @@ Shocker,57.2,2.13,1.8,1.0,tc8,Acclaim Studios London,TRUE
 Diamond,55.9,2.23,1.2,1.0,diamond,TTDriver,FALSE
 Drive-Thru,57.7,2.13,1.8,1.0,tcp_junkfood,burner94,FALSE
 Metal Masher,53.4,2.59,2.7,1.0,jgp_metalmasher,Ghosterino,FALSE
+Moonshine XL,58.1,2.75,1.8,1.0,tcp_moonshine,Norfair,FALSE
 Flower Power,57.8,2.76,1.6,1.1,flowerpower2,MightyCucumber,FALSE
 Panther,62.9,2.18,1.65,1.1,panthergto,kiwi,FALSE
 BossVolt,57.4,2.16,3.5,1.2,bossvolt,Acclaim Studios London,TRUE
