@@ -1,10 +1,10 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
-Adrenaline XL,71.1,3.89,1.4,0.7,tcp_adren,BloodBTF,FALSE
 Endo,71.2,4.75,2.7,0.7,nrf_endo,Norfair,FALSE
 Maxxas XLR8,72.3,2.98,2.56,0.7,maxxas,Trixed,FALSE
 Phantera ART,72.9,3.59,1.75,0.7,phanteraart,FZG (Ziggy),FALSE
 Reiser,70.7,3.33,2.0,0.7,fd130rc300,Xarc,FALSE
 Wyvern,70.7,3.81,1.8,0.7,tcp_wyvern,Norfair,FALSE
+Adrenaline XL,71.1,3.89,1.4,0.8,tcp_adren,BloodBTF,FALSE
 Calcure,71.2,2.87,2,0.8,phim_calcure,Phimeek,FALSE
 Commandine,65.1,3.44,2,0.8,fd101command,Xarc,FALSE
 La Rossa,73,4.14,2,0.8,fd94rossa,Xarc,FALSE
