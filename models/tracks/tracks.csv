@@ -58,7 +58,7 @@ Silencio,SIL,3,658,silencio,Gforce,FALSE,TRUE,48
 Skating Toys Redux,STR,3,1011,skatoysred,Zorbah,FALSE,FALSE,60
 Spa-Volt 1,SV1,3,595,spavolt1,kiwi,FALSE,FALSE,42
 Spa-Volt 2,SV2,3,532,spavolt2,kiwi,FALSE,FALSE,35
-Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,FALSE,35
+Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,FALSE,32
 StadVolt,STV,2,571,stadvolt,L17,FALSE,FALSE,32
 Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,FALSE,57
 SuperMarket 1,SM1,3,502,market1,Acclaim Studios London,TRUE,FALSE,33
@@ -76,6 +76,7 @@ Toys in the Hood 5,TH5,1,565,nhood5,Chris Johannsen,FALSE,FALSE,32
 ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,FALSE,32
 Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,FALSE,42
 Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,FALSE,42
+Treehouse Camping,THC,2,710,pmt_treehouse,Paperman,FALSE,FALSE,48
 Troubled Terrace,TT,2,395,troubledterrace,yun,FALSE,TRUE,32
 Urban Sprint 1,US1,2,633,urban1,Wichilie,FALSE,FALSE,38
 User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,TRUE,39
