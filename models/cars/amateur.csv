@@ -4,15 +4,15 @@ RC San,53.3,3.17,1.0,0.7,dino,Acclaim Studios London,TRUE
 Candy Pebbles,55.3,1.83,1.3,0.8,candy,Acclaim Studios London,TRUE
 LA 54,52.0,2.52,1.2,0.8,tc12,Acclaim Studios London,TRUE
 Matra XL,55.8,2.12,1.4,0.8,tc10,Acclaim Studios London,TRUE
-Bumblebee,50.4,2.28,1.1,0.8,bumblebee,kiwi,FALSE
 D-Maxx,52.1,2.18,2.0,0.8,dmaxx,TTDriver,FALSE
-LMW,56.1,1.74,2.0,0.8,nrf_lmw,Norfair,FALSE
+Flatter 4V,52.1,2.16,1.3,0.8,lib6a_flat,Paperman,FALSE
 Locker,52.1,2.98,1.4,0.8,tclock,BloodBTF,FALSE
 Moffat Snake,50.4,2.31,1.3,0.8,moffat,Trixed,FALSE
 Nitro Crusher,52.7,2.51,2.3,0.8,nitromad,Trixed,FALSE
 Radscoop,52.9,2.17,2.0,0.8,radscoop,TTDriver,FALSE
 Reddlum,53.4,2.9,1.8,0.8,reddlum,MightyCucumber,FALSE
 Ultima,55.0,2.20,1.25,0.8,fd35garrow,Xarc,FALSE
+Ultra Gamma,55.8,1.80,1.5,0.8,fd88gamma,Xarc,FALSE
 Bad Bison,56.3,1.72,2.8,0.9,badbis,BloodBTF,FALSE
 Badd RC,54.5,2.26,2.0,0.9,baddrc,MightyCucumber,FALSE
 Baja Dash,49.9,2.52,2.0,0.9,lib8a_dash,Norfair,FALSE
@@ -22,11 +22,11 @@ Mongoose,53.1,2.0,1.4,0.9,mongoose,Norfair,FALSE
 Road King,50.1,3.13,2.8,0.9,roadking,Xarc,FALSE
 Stompy,51.1,2.42,0.7,0.9,stompy,TTDriver,FALSE
 Strax,50.4,2.58,1.4,0.9,strax,kiwi,FALSE
-X-6 Nitro,51.8,2.3,1.6,0.9,jgp_x6,Ghosterino,FALSE
 Mouse,54.7,2.9,2.3,1.0,mouse,Acclaim Studios London,TRUE
 Phantum,55.2,1.88,1.6,1.0,phantum,BloodBTF,FALSE
-Slim,52.3,2.27,1.3,1.0,lib16c_slim,Xarc,FALSE
 Queen Bee,52.3,2.33,1.9,1.2,tcp_drifter,Trixed,FALSE
+Triton,52.1,2.09,2.3,1.2,triton,burner94,FALSE
+Blacklight,54.3,1.78,2.9,1.3,synthruck,burner94,FALSE
 RC Phink,49.8,2.28,1.6,1.4,jg6rc,Acclaim Studios London,TRUE
 Genghis Kar,56.5,1.66,2.0,1.6,gencar,Acclaim Studios London,TRUE
 Exceed,55.9,2.41,1.2,1.6,fd96exceed,Xarc,FALSE
