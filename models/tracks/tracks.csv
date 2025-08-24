@@ -9,9 +9,9 @@ Cardboard Castle,CC,0,426,pmt_box,Paperman,FALSE,FALSE,26
 Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,FALSE,40
 Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,FALSE,40
 Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,FALSE,40
-Desolate District 1,DD1,2,657,district,RV_Pure,FALSE,FALSE,42
+Desolate District 1,DD1,2,627,district,RV_Pure,FALSE,FALSE,42
 Downtown 1,DT1,1,800,dtown1,G_J,FALSE,FALSE,42
-Downtown 2,DT2,3,916,dtown2,G_J,FALSE,FALSE,50
+Downtown 2,DT2,3,911,dtown2,G_J,FALSE,FALSE,50
 Elementary 1,E1,0,374,elementary1,G_J,FALSE,FALSE,25
 Elementary 2,E2,0,402,elementary2,G_J,FALSE,FALSE,25
 Fairground 1,FG1,1,363,fair1,G_J,FALSE,FALSE,24
@@ -22,7 +22,7 @@ Genghis Kastle,GK,1,626,kastle,kiwi,FALSE,FALSE,38
 Ghost Town 1,GT1,1,324,wild_west1,Acclaim Studios London,TRUE,FALSE,22
 Ghost Town 2,GT2,3,490,wild_west2,Acclaim Studios London,TRUE,FALSE,30
 Grisville,GV,3,648,ghetto,Allan1,FALSE,FALSE,44
-Helios/Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,FALSE,40
+Helios-Lunar (RVA),HL,-1,655,helios-lunar,Human,FALSE,FALSE,40
 HMS Invincible: Redux,HMS,1,621,hms_redux,MOH,FALSE,FALSE,38
 Holiday Camp: California Edition,HC,-1,1170,hcampcal,Marv,FALSE,FALSE,76
 Home 2,HO2,2,489,home2,G_J,FALSE,FALSE,27
@@ -46,7 +46,7 @@ Port Limano 2,PL2,2,616,portlimano2,benderfan3124,FALSE,FALSE,35
 Port Limano EX,PLX,3,819,portlimanoex,benderfan3124,FALSE,FALSE,43
 Quake!,Q!,3,843,quake,Gabor,FALSE,FALSE,47
 Rigs Highway,RH,2,671,pmt_highway,Paperman,FALSE,FALSE,42
-Rooftop Chase: Redux,RCR,-1,605,roofchaseredux,r6te,FALSE,FALSE,40
+Rooftop Chase: Redux,RCR,-1,598,roofchaseredux,r6te,FALSE,FALSE,40
 Rooftops,RT,1,588,roof,Acclaim Studios London,TRUE,FALSE,38
 Rooftops 1,RT1,3,717,roof1,G_J,FALSE,FALSE,45
 RV Temple (RVA),RVT,-1,1116,rvt_rva,Antimorph,FALSE,FALSE,75
@@ -58,9 +58,9 @@ Silencio,SIL,3,658,silencio,Gforce,FALSE,TRUE,48
 Skating Toys Redux,STR,3,1011,skatoysred,Zorbah,FALSE,FALSE,60
 Spa-Volt 1,SV1,3,595,spavolt1,kiwi,FALSE,FALSE,42
 Spa-Volt 2,SV2,3,532,spavolt2,kiwi,FALSE,FALSE,35
-Spring Visit,SV,0,560,pmt_springvst,Paperman,FALSE,FALSE,32
+Spring Visit,SV,0,551,pmt_springvst,Paperman,FALSE,FALSE,32
 StadVolt,STV,2,571,stadvolt,L17,FALSE,FALSE,32
-Subway 2,SW2,1,937,subway2,CapitaineSZM,FALSE,FALSE,57
+Subway 2,SW2,1,936,subway2,CapitaineSZM,FALSE,FALSE,57
 SuperMarket 1,SM1,3,502,market1,Acclaim Studios London,TRUE,FALSE,33
 SuperMarket 2,SM2,0,301,market2,Acclaim Studios London,TRUE,FALSE,17
 Suspension permanente,SP,-1,524,suspension,Macacosky,FALSE,TRUE,40
@@ -76,8 +76,8 @@ Toys in the Hood 5,TH5,1,565,nhood5,Chris Johannsen,FALSE,FALSE,32
 ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,FALSE,32
 Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,FALSE,42
 Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,FALSE,42
-Treehouse Camping,THC,2,710,pmt_treehouse,Paperman,FALSE,FALSE,48
-Troubled Terrace,TT,2,395,troubledterrace,yun,FALSE,TRUE,32
+Treehouse Camping,THC,2,669,pmt_treehouse,Paperman,FALSE,FALSE,48
+Troubled Terrace,TT,2,392,troubledterrace,yun,FALSE,TRUE,32
 Urban Sprint 1,US1,2,633,urban1,Wichilie,FALSE,FALSE,38
 User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,TRUE,39
 Venice,VN,3,617,venice,Gabor,FALSE,FALSE,40
