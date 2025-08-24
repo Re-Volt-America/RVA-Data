@@ -1,18 +1,18 @@
 name,speed,acc,weight,multiplier,folder_name,author,stock
 Endo,71.2,4.75,2.7,0.7,nrf_endo,Norfair,FALSE
-Maxxas XLR8,72.3,2.98,2.56,0.7,maxxas,Trixed,FALSE
 Phantera ART,72.9,3.59,1.75,0.7,phanteraart,FZG (Ziggy),FALSE
-Reiser,70.7,3.33,2.0,0.7,fd130rc300,Xarc,FALSE
-Wyvern,70.7,3.81,1.8,0.7,tcp_wyvern,Norfair,FALSE
-Adrenaline XL,71.1,3.89,1.4,0.8,tcp_adren,BloodBTF,FALSE
 Calcure,71.2,2.87,2,0.8,phim_calcure,Phimeek,FALSE
 Commandine,65.1,3.44,2,0.8,fd101command,Xarc,FALSE
+DFV 72,75.0,3.07,1.7,0.8,dfv72,TTDriver,FALSE
 La Rossa,73,4.14,2,0.8,fd94rossa,Xarc,FALSE
+Sideswipe,72.0,3.88,2.0,0.8,sideswipe,Gotolei,FALSE
 Starmac,68.7,3.54,1.8,0.8,starmac,MightyCucumber,FALSE
 Voltrex,72.8,3.88,1.3,0.8,moz_voltrex,MightyCucumber,FALSE
 XM250,70.4,3.13,1.4,0.8,xm250,Norfair,FALSE
+Adrenaline XL,71.1,3.89,1.4,0.9,tcp_adren,BloodBTF,FALSE
 Alter,70.4,3.02,2.5,0.9,alter,TTDriver,FALSE
-Argon Auto,71.5,4.3,1.8,0.9,tcp_argon,MightyCucumber,FALSE
+Daemmon,74.6,3.86,1.85,0.9,daemmon,MightyCucumber,FALSE
+Elyta,68.4,3.32,2.1,0.9,fd143elyta,Xarc,FALSE
 Gungnir,67.9,3.46,3.3,0.9,gungnir,TTDriver,FALSE
 Hoshino,75.7,3.24,2,0.9,hoshino,burner94,FALSE
 Nain,79.4,2.65,2.25,0.9,nain,Trixed,FALSE
@@ -23,11 +23,11 @@ King Moloko,77.3,3.04,2.7,1.0,kingmoloko,kiwi,FALSE
 Megalodon XL,77.3,3.74,2.2,1.0,megalodonxl,Norfair,FALSE
 Moderata,78.6,1.72,1.6,1.0,fd_s23,Xarc,FALSE
 Nyx,73.6,3.52,1.6,1.0,lib8a_nyx,Norfair,FALSE
+RV GP,71.0,3.9,1.4,1.0,rvgp,TTDriver,FALSE
 Saeger,71.5,5.8,2,1.0,saeger,Skarma,FALSE
 Identity X,78.3,3.38,2.5,1.1,fd95x,Xarc,FALSE
 Rinne,80.6,3.69,1.9,1.1,rinne,Xarc,FALSE
 Napalm,76.1,5.43,2,1.3,fd_s21,Xarc,FALSE
 BLK,75.0,3.82,1.9,1.4,fd152blk,Xarc,FALSE
 Ilmenite,75.0,3.94,3.5,1.4,yun_ilmenite,yun,FALSE
-Wave Rider,70.9,4.58,2.0,1.4,tcp_wave,Trixed,FALSE
 Oblitenitro,83.5,2.38,3.5,1.5,oblitenitro,FZG (Ziggy),FALSE
