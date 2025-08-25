@@ -5,7 +5,6 @@ Calcure,71.2,2.87,2,0.8,phim_calcure,Phimeek,FALSE
 Commandine,65.1,3.44,2,0.8,fd101command,Xarc,FALSE
 DFV 72,75.0,3.07,1.7,0.8,dfv72,TTDriver,FALSE
 La Rossa,73,4.14,2,0.8,fd94rossa,Xarc,FALSE
-Sideswipe,72.0,3.88,2.0,0.8,sideswipe,Gotolei,FALSE
 Starmac,68.7,3.54,1.8,0.8,starmac,MightyCucumber,FALSE
 Voltrex,72.8,3.88,1.3,0.8,moz_voltrex,MightyCucumber,FALSE
 XM250,70.4,3.13,1.4,0.8,xm250,Norfair,FALSE
@@ -17,6 +16,7 @@ Gungnir,67.9,3.46,3.3,0.9,gungnir,TTDriver,FALSE
 Hoshino,75.7,3.24,2,0.9,hoshino,burner94,FALSE
 Nain,79.4,2.65,2.25,0.9,nain,Trixed,FALSE
 Nakajima,76.2,3.2,1.25,0.9,nakajima,burner94,FALSE
+Sideswipe,72.0,3.88,2.0,0.9,sideswipe,Gotolei,FALSE
 FLIR,71.4,5.66,2,1.0,nrf_flir,Norfair,FALSE
 King Kaiju,72.7,4.4,1.75,1.0,tx11kaiju,Trixed,FALSE
 King Moloko,77.3,3.04,2.7,1.0,kingmoloko,kiwi,FALSE

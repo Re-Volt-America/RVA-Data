@@ -9,11 +9,12 @@ BHV 1,59.0,2.41,3.5,0.8,bhv1,MightyCucumber,FALSE
 Blazar,59.1,3.03,1.6,0.8,blazar,BloodBTF,FALSE
 Chubba,59.1,2.66,3.0,0.8,lib1b_chubba,Paperman,FALSE
 Gravel Basher,59.8,2.45,1.2,0.8,gravelbasher,TTDriver,FALSE
-Jackal,63.9,2.10,2.5,0.8,moz_jackal,Norfair,FALSE
 Mambra,58.6,4.37,1.6,0.8,mambra,MightyCucumber,FALSE
 Runner 2000,59.8,3.18,1.32,0.8,nrf_runner,Norfair,FALSE
 Speed Balancer,62.1,3.22,1.8,0.8,speedbalancer,TTDriver,FALSE
 5TP,62.2,3.04,2.5,0.9,jgp_5tp,Norfair,FALSE
+Hi-Roller,59.9,3.01,1.6,0.9,tcx_gambling,Trixed,FALSE
+Jackal,63.9,2.10,2.5,0.9,moz_jackal,Norfair,FALSE
 Maxam RS,61.1,2.23,1.7,0.9,maxamrs,BloodBTF,FALSE
 Sasquatch,61.4,2.47,3,0.9,sasquatch,kiwi,FALSE
 Sizzler,58.4,3.26,1.2,0.9,sizzler,MightyCucumber,FALSE
@@ -22,7 +23,6 @@ RG1,57.9,2.82,1.4,1.0,tc7,Acclaim Studios London,TRUE
 Ducktail,60.3,2.46,2.0,1.0,phim_ducktail,Phimeek,FALSE
 National Racer,61.4,2.83,2.2,1.0,phim_nation_racer,Phimeek,FALSE
 Pemto,65.7,2.58,1.5,1.0,pemto,kiwi,FALSE
-Hi-Roller,59.9,3.01,1.6,1.1,tcx_gambling,Trixed,FALSE
 Trundle Buster,61.5,2.92,4,1.1,nm_trundle,Paperman,FALSE
 Ballista,62.5,4.18,2.0,1.2,ballista,TTDriver,FALSE
 Cobra Max,62.8,2.78,2.8,1.2,lib17b_cobra,Norfair,FALSE
