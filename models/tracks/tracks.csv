@@ -19,7 +19,7 @@ Galaxy World 1,GW1,3,710,galaxy1,G_J,FALSE,FALSE,45
 Galaxy World 2,GW2,1,679,galaxy2,G_J,FALSE,FALSE,40
 Game Room 1,GR1,1,417,fdt23arcade1,Xarc,FALSE,FALSE,25
 Game Room 2,GR2,2,635,fdt24arcade2,Xarc,FALSE,FALSE,35
-Genghis Kastle,GK,1,626,kastle,kiwi,FALSE,FALSE,38
+Genghis Kastle,GK,1,626,kastle,kiwi,FALSE,FALSE,35
 Ghost Town 1,GT1,1,324,wild_west1,Acclaim Studios London,TRUE,FALSE,22
 Ghost Town 2,GT2,3,490,wild_west2,Acclaim Studios London,TRUE,FALSE,30
 Grisville,GV,3,648,ghetto,Allan1,FALSE,FALSE,44
@@ -49,7 +49,7 @@ Port Limano 1,PL1,1,308,portlimano1,benderfan3124,FALSE,FALSE,21
 Port Limano 2,PL2,2,616,portlimano2,benderfan3124,FALSE,FALSE,35
 Quake!,Q!,3,843,quake,Gabor,FALSE,FALSE,47
 Rooftop Chase: Redux,RCR,-1,598,roofchaseredux,r6te,FALSE,FALSE,40
-Rooftops,RT,1,588,roof,Acclaim Studios London,TRUE,FALSE,38
+Rooftops,RT,1,588,roof,Acclaim Studios London,TRUE,FALSE,39
 Rooftops 1,RT1,3,717,roof1,G_J,FALSE,FALSE,45
 RV Temple (RVA),RVT,-1,1116,rvt_rva,Antimorph,FALSE,FALSE,75
 Sakura,SKR,-1,752,sakura,Human,FALSE,FALSE,45
@@ -75,7 +75,7 @@ Toys in the Hood 4 (RVA),TH4,3,706,nhood4_rva,Chris Johannsen,FALSE,FALSE,40
 ToySoldierz,TSZ,-1,454,toysoldierz,Skitch2,FALSE,FALSE,32
 Toytanic 1,T1,2,742,ship1,Acclaim Studios London,TRUE,FALSE,42
 Toytanic 2,T2,3,742,ship2,Acclaim Studios London,TRUE,FALSE,42
-Troubled Terrace,TT,2,392,troubledterrace,yun,FALSE,TRUE,32
+Troubled Terrace,TT,2,392,troubledterrace,yun,FALSE,TRUE,27
 Urban Sprint 1,US1,2,633,urban1,Wichilie,FALSE,FALSE,38
 urbanX,UX,3,682,urbanx,javildesign,FALSE,FALSE,39
 User-Deli: XL,DEL,3,390,user-delixl,BGM,FALSE,TRUE,39
