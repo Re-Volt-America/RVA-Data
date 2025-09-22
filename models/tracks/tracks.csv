@@ -1,5 +1,5 @@
 name,short_name,difficulty,length,folder_name,author,stock,lego,average_lap_time
-Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,FALSE,35
+Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,FALSE,32
 Aqueduct,AQU,2,426,aqueduct,hilarious6,FALSE,FALSE,31
 Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,FALSE,22
 Botanical Garden EX,BGX,2,807,fdt9xgarden,Xarc,FALSE,FALSE,45
@@ -31,18 +31,18 @@ Hospital 1,HP1,2,623,hospital1,G_J,FALSE,FALSE,35
 Hospital 2,HP2,2,399,hospital2,G_J,FALSE,FALSE,26
 Hull Breach 3000 (RVA),HB3,3,508,breach3000_rva,Gorgonzola,FALSE,FALSE,32
 Jailhouse Rock,JR,-1,729,jailhouse,Human,FALSE,FALSE,45
-Junkyard 2,JY2,1,517,fdt20junk2,Xarc,FALSE,FALSE,32
+Junkyard 2,JY2,1,517,fdt20junk2,Xarc,FALSE,FALSE,28
 Kadish Sprint,KS,2,814,kadishs,Dyspro50,FALSE,FALSE,56
 Market Mayhem,MM,1,448,marketmayhem,BloodBTF,FALSE,FALSE,26
-Medieval Redux,MED,0,356,medieval-redux,Instant,FALSE,FALSE,31
+Medieval Redux,MED,0,356,medieval-redux,Instant,FALSE,FALSE,27
 Metro-Volt,MV,-1,649,metrovolt,Human,FALSE,FALSE,42
 Moon Dawn,MD,3,1418,dome3,Allan1,FALSE,FALSE,92
 Motel in the Hood,MIH,-1,325,motelinhood,MirkoGT97,FALSE,FALSE,25
 Museum 1,M1,2,668,muse1,Acclaim Studios London,TRUE,FALSE,45
 Museum 2,M2,0,600,muse2,Acclaim Studios London,TRUE,FALSE,34
-Museum 3,M3,0,539,muse3,hilaire9,FALSE,FALSE,40
+Museum 3,M3,0,539,muse3,hilaire9,FALSE,FALSE,38
 Museum EX,MX,3,970,fdt13xmuse,Xarc,FALSE,FALSE,55
-Museum Unleashed (RVA),MU,2,1295,museun_rva,maxi,FALSE,FALSE,75
+Museum Unleashed,MUN,2,1295,museun_rva,maxi,FALSE,FALSE,75
 Paper Town 1,PT1,1,350,papertown1,CapitaineSZM,FALSE,FALSE,22
 PetroVolt,PV,3,948,petrol,Gabor,FALSE,FALSE,50
 Port Limano 1,PL1,1,308,portlimano1,benderfan3124,FALSE,FALSE,21
