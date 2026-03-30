@@ -1,4 +1,4 @@
-name,speed,acc,weight,multiplier,folder_name,author,stock
+﻿name,speed,acc,weight,multiplier,folder_name,author,stock
 Purp XL,67.4,3.20,2,0.7,jg5purpxl,Acclaim Studios London,TRUE
 SNW 35,65.8,4.32,1.5,0.7,jg4snw35,Acclaim Studios London,TRUE
 Toyeca,64.8,3.2,2,0.7,toyeca,Acclaim Studios London,TRUE
@@ -6,28 +6,28 @@ Outlaw,66.2,2.62,2,0.7,nrf_outlaw,Norfair,FALSE
 Puma,64.5,4.14,1.8,0.7,nrf_puma,Norfair,FALSE
 Ridgeback,65.6,3.3,1.9,0.7,ridgeback,Norfair,FALSE
 Blackfang,66.6,2.9,2,0.8,blackfangr8,Paddy Productions,FALSE
-Chimera TC,61.4,3.73,1.6,0.8,chimtc,BloodBTF,FALSE
+E-Race R1,65.8,3.66,0.78,0.8,erace,NotDaijoubu,FALSE
+Line-A,65.8,3.51,1.5,0.8,linea,GDM,FALSE
 Steezy,66,3.07,1.7,0.8,steezy,Norfair,FALSE
-Tier 15,65.7,3.29,3.7,0.8,tier15,Norfair,FALSE
-TT Raider,68.5,3.03,2.0,0.8,ttraider,MightyCucumber,FALSE
 Humma,64,3.45,2,0.9,sugo,Acclaim Studios London,TRUE
-Acclaim F1,66.8,3.66,1.0,0.9,acclaimf1,MightyCucumber,FALSE
-Sparker,68.2,3.35,1.2,0.9,sparker,TTDriver,FALSE
-Sunrise,66.5,2.92,1.9,0.9,nrf_sunrise,Norfair,FALSE
+Schwarz,66.4,3.21,2.0,0.9,schwarz,TTDriver,FALSE
+Shupane,67.6,3.2,1.77,0.9,shupane,Mladen007,FALSE
+The Knight,69.0,3.02,1.45,0.9,knight,Trixed,FALSE
+Tizzoni,67.7,2.86,1.7,0.9,gtc_tizzoni,Ghosterino,FALSE
 Akii,65.0,3.46,2.0,1.0,akii,Trixed,FALSE
+Bullet,66.0,3.2,2.5,1.0,bullet,TTDriver,FALSE
+Kindleberger,71.2,1.95,2.8,1.0,kindleberger,FZG (Ziggy),FALSE
 Sucker Punch,66.6,3.18,1.25,1.0,fan,burner94,FALSE
-Tizzoni,67.7,2.86,1.7,1.0,gtc_tizzoni,Ghosterino,FALSE
-Wildstar,66.3,3.6,1,1.0,wildstar,TTDriver,FALSE
 Patriot,73.7,5.04,1.9,1.1,patriot,MightyCucumber,FALSE
 Ultra Drive,67.9,4.11,1.8,1.1,ultradrive,TTDriver,FALSE
 Sir Gleam,67.4,4.45,1,1.2,gleam,MightyCucumber,FALSE
-RC Bulldog,70.5,2.81,5,1.3,bulldog,Trixed,FALSE
 Superdriver,62.9,5.45,1.4,1.3,superdriver,burner94,FALSE
+Truckenstein,67.4,2.71,2.8,1.4,gtc_truckenstein,Ghosterino,FALSE
 Vandal,63.0,4.50,2.0,1.5,nryu_vandal,Norfair,FALSE
 Cougar,69.7,2.36,2,1.6,cougar,Acclaim Studios London,TRUE
 Panga,69.6,2.73,2.5,1.8,panga,Acclaim Studios London,TRUE
-Vantastique,70.8,2.41,3.25,1.8,vantastique,FZG (Ziggy),FALSE
-Power Station,61.4,4.72,1.8,2.0,powerstation,Wichilie,FALSE
 AMW,68.2,2.31,1,2.5,amw,Acclaim Studios London,TRUE
-Dust Devil,65.9,2.18,2.0,2.5,gtc_dustdevil,Ghosterino,FALSE
+Brawler,68.5,2.76,1.8,2.5,jgp_brawler,Ghosterino,FALSE
+Dust Devil,67.6,2.18,2.0,2.5,gtc_dustdevil,Ghosterino,FALSE
+Sonic Eagle,62.3,4.88,0.8,2.5,lib7a_formula,burner94,FALSE
 Fulon X,62.5,2.05,1.2,3.2,jg2fulonx,Acclaim Studios London,TRUE
