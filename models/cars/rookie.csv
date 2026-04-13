@@ -6,7 +6,6 @@ El Rapido,51.2,2.26,1.85,0.7,lib17a_rapid,MightyCucumber,FALSE
 Firecracker,50.2,2.6,1.8,0.7,tcp_crackhead,Trixed,FALSE
 Harvester,47.9,2.32,1.7,0.8,mud,Acclaim Studios London,TRUE
 Albatross GT,48.5,2.36,1.4,0.8,albatrossgt,BloodBTF,FALSE
-Boulder Dash,49.7,1.98,1.5,0.8,chibipickup,NotDaijoubu,FALSE
 Condor GRV,51.5,2.73,1.5,0.8,condorgrv,TTDriver,FALSE
 LR 64,54.1,1.55,1.7,0.8,fd64lost,Xarc,FALSE
 Road Star,50.3,2.49,0.8,0.8,roadstar,Trixed,FALSE
@@ -14,6 +13,7 @@ Tesla,54.1,1.51,3.0,0.8,lib2d_tesla,MightyCucumber,FALSE
 BigVolt,52.8,2.36,2.3,0.9,bigvolt,Acclaim Studios London,TRUE
 Col. Moss,52.8,2.17,1.5,0.9,moss,Acclaim Studios London,TRUE
 Volken Turbo,49.5,2.24,1.6,0.9,volken,Acclaim Studios London,TRUE
+Boulder Dash,49.7,1.98,1.5,0.9,chibipickup,NotDaijoubu,FALSE
 Nesbitt,53.5,1.81,1.5,0.9,nesbitt,Skarma,FALSE
 Rebound 4X4,53.8,2.25,1.5,0.9,rebound,Paperman,FALSE
 Super Wheat,52.4,1.86,2.4,0.9,swheat,RV_Pure,FALSE
