@@ -3,8 +3,8 @@ Airport 1,AP1,2,612,fdt16airport1,Xarc,FALSE,FALSE,32
 Aqueduct,AQU,2,426,aqueduct,hilarious6,FALSE,FALSE,31
 Botanical Garden,BG,0,323,garden1,Acclaim Studios London,TRUE,FALSE,22
 Botanical Garden EX,BGX,2,807,fdt9xgarden,Xarc,FALSE,FALSE,45
-Bricked,BRI,-1,435,sn_bricked,sinaosal,FALSE,TRUE,35
-Calaboq,CBQ,-1,512,calaboq,Gforce,FALSE,TRUE,33
+Bricked,BRI,-1,435,sn_bricked,sinaosal,FALSE,TRUE,39
+Calaboq,CBQ,-1,512,calaboq,Gforce,FALSE,TRUE,34
 Casino RV,CAS,1,635,casinorv,CapitaineSZM,FALSE,FALSE,40
 Castle 1,CT1,3,795,fdt21castle1,Xarc,FALSE,FALSE,40
 Castle 2,CT2,3,715,fdt22castle2,Xarc,FALSE,FALSE,40
